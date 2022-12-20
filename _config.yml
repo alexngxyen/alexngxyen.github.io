@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Alexander Nguyen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Alexander Nguyen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. Student at UC Irvine"
+  location         : "Irvine, CA, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
