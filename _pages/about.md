@@ -10,5 +10,5 @@ redirect_from:
 ---
 
 # About Me
-I am a Ph.D. student in the department of Mechanical and Aerospace Engineering at the University of California, Irvine. I work under the supervision of ...
+Hello! I am a Ph.D. student in the department of Mechanical and Aerospace Engineering at the University of California, Irvine. I working under the joint supervision of [Prof. Faryar Jabbari](https://engineering.uci.edu/users/faryar-jabbari) and [Prof. Magnus Egerstedt](https://engineering.uci.edu/users/magnus-egerstedt).
 
