@@ -46,32 +46,6 @@ Work Experience
   * Compared the estimation accuracy and computation speed of seven different stochastic filters (e.g., variations of the Kalman filter and bootstrap particle filter) using the navigation observables extracted from the processed cellular SOP data. 
   * Summarized the project's findings into presentation slides and a poster presented to 50+ attendees (e.g. fellow interns, local university professors, and Air Force Research Lab (AFRL) researchers).
   * Debriefed 15+ AFRL researchers in the Navigation and Communication Branch (RYWN) on the project  insights and results. 
-  
-Skills
-======
-* **Programming:** MATLAB & Simulink, Python, Mathematica, C++, Arduino
-* **Software:** LaTeX, Microsoft Office Suite, Ipe, Git, Solidworks, AutoCAD, KiCAD, LTSpice
-* **Machine Tools:** Lathe, Mill, Band Saw, Drill Press, Soldering Iron, Laser Cutter
-* **Languages:** English (Native) and French (Elementary)
-
-Publications
-======
-
-Journal Publications
-------
-
-* <b>A. Nguyen</b> and Z. Kassas. “Efficient Transmitter Selection Strategies for Improved Information Gathering of Aerial Vehicle
-Navigation in GNSS-Denied Environments,” <i>IEEE Aerospace and Electronic Systems Magazine</i>. (submitted) 
-
-Conference Publications
-------
-* <b>A. Nguyen </b><sup> </sup>, Z. Shadram<sup></sup>, and Z. Kassas. “A lower bound for the error covariance of radio SLAM with terrestrial
-signals of opportunity,” <i>ION Global Navigation Satellite Systems Conference</i>, Sept. 2021., pp. 2294-2306. [[PDF]](https://alexngxyen.github.io/files/ION_2021_Second_Submission_Alex.pdf)
-
-* <b>A. Nguyen </b> and Z. Kassas. “Transmitter selection for improved information gathering in aerial vehicle
-navigation with terrestrial signals of opportunit,” <i>f ION International Technical Meeting</i>, Jan. 2022., pp. 723-734. [[PDF]](https://alexngxyen.github.io/files/ION_ITM_2022_Alex_Final_Submission.pdf)
-
-<sup>*</sup> -- These authors contributed equally
 
 Skills
 ======
