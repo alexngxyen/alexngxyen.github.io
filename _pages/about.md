@@ -10,5 +10,5 @@ redirect_from:
 ---
 
 # About Me
-Hello! I am a Ph.D. student in the department of Mechanical and Aerospace Engineering at the University of California, Irvine. I working under the joint supervision of [Prof. Faryar Jabbari](https://engineering.uci.edu/users/faryar-jabbari) and [Prof. Magnus Egerstedt](https://engineering.uci.edu/users/magnus-egerstedt).
+I am a PhD student in the department of [Mechanical and Aerospace Engineering](https://engineering.uci.edu/dept/mae) at UC Irvine's Samueli School of Engineering, where I work under the joint supervision of [Prof. Faryar Jabbari](https://engineering.uci.edu/users/faryar-jabbari) and [Prof. Magnus Egerstedt](https://engineering.uci.edu/users/magnus-egerstedt) at the Robot Ecology Laboratory. Currently, my research interests lie in ...
 
