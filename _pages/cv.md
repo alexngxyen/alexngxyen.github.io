@@ -40,6 +40,7 @@ Research Experience
 Work Experience
 ======
 * Electrical Engineering Intern, [Autonomy Technology Research Center Summer Program](https://udayton.edu/engineering/departments/electrical_and_computer/faculty_activities/atr-center-summer-program/index.php) (Dayton, OH), June 2021 - Sept. 2021 & <br/> June 2022 - Sept. 2022
+  * **Mentors:** Mark Carroll and Mark Smearcheck
   * Created simulation environments in MATLAB and Python to study the estimation performance of the localization, mapping, and simultaneous localization and mapping (SLAM) frameworks for aircraft navigation with cellular signals of opportunity (SOPs).
   * Processed cellular SOP data collected by a U.S. Air Force high-altitude aircraft during a flight campaign in Southern California.
   * Compared the estimation accuracy and computation speed of seven different stochastic filters (e.g., variations of the Kalman filter and bootstrap particle filter) using the navigation observables extracted from the processed cellular SOP data. 
@@ -78,6 +79,15 @@ Skills
 * **Software:** LaTeX, Microsoft Office Suite, Ipe, Git, Solidworks, AutoCAD, KiCAD, LTSpice
 * **Machine Tools:** Lathe, Mill, Band Saw, Drill Press, Soldering Iron, Laser Cutter
 * **Languages:** English (Native) and French (Elementary)
+
+Relevant Coursework
+======
+* **Dynamics and Control:** 
+  * Nonlinear Control Systems, Synthetic Biological Design and Computing, Linear Systems I, Learning Control Systems, Optimization Methods, Nonlinear Feedback Systems, Learning Control Systems, Dynamics (Lagrangian Mechanics, Engineering Analysis I <br/>
+* **Estimation Theory:** 
+  *Parameter and State Estimation, Advanced Detection and Estimation Theory, Random Processes, GNSS Signal Processing and SDR Design <br/>
+* **Robotics:** 
+  * Robot Locomotion Control, Soft Robotics, Robot Dynamics and Control, Robot Motion Planning & Navigation
 
 Honors and Awards
 ======
