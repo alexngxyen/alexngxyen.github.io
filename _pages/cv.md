@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D.** in Mechanical and Aerospace Engineering, University of California Irvine, June 2025 (*Expected*)  
 * **M.S.** in Mechanical and Aerospace Engineering, University of California Irvine, June 2022
-  * *Thesis:* Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection
+  * *Thesis:* Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf)
 * **B.S. with Honors** in Mechanical Engineering, University of California Santa Barbara, June 2020
 * **A.S. with Honors** in Mechanical Engineering, Diablo Valley College, May 2018
 
@@ -55,10 +55,15 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Conference Publications
+------
+
+* <b>A. Nguyen </b><sup> </sup>, Z. Shadram<sup></sup>, and Z. Kassas. “ A lower bound for the error covariance of radio SLAM with terrestrial
+signals of opportunity,” <i>ION Global Navigation Satellite Systems Conference</i>, Sept. 2021., pp. 2294-2306 #[[PDF]]()
+
+# * <b>Alexander Davydov</b><sup>*</sup>, Saber Jafarpour<sup>*</sup>, Matthew Abate, Francesco Bullo, and Samuel Coogan. “Comparative Analysis of Interval Reachability for Robust Implicit and Feedforward Neural Networks,” <i>IEEE Conference on Decision and Control</i>, Dec. 2022. [[URL](https://arxiv.org/abs/2204.00187)] <b>To Appear</b>
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
