@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D.** in Mechanical and Aerospace Engineering, University of California Irvine, June 2025 (*Expected*)  
 * **M.S.** in Mechanical and Aerospace Engineering, University of California Irvine, June 2022
-  * *Thesis:* Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf)
+  * *Thesis:* Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection  [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf)
 * **B.S. with Honors** in Mechanical Engineering, University of California Santa Barbara, June 2020
 * **A.S. with Honors** in Mechanical Engineering, Diablo Valley College, May 2018
 
@@ -55,27 +55,39 @@ Skills
 
 Publications
 ======
-Conference Publications
+
+Journal Publications
 ------
 
-* <b>A. Nguyen </b><sup> </sup>, Z. Shadram<sup></sup>, and Z. Kassas. “ A lower bound for the error covariance of radio SLAM with terrestrial
-signals of opportunity,” <i>ION Global Navigation Satellite Systems Conference</i>, Sept. 2021., pp. 2294-2306 #[[PDF]]()
+* <b>A. Nguyen</b> and Z. Kassas. “Efficient Transmitter Selection Strategies for Improved Information Gathering of Aerial Vehicle
+Navigation in GNSS-Denied Environments,” <i>IEEE Aerospace and Electronic Systems Magazine</i>. (submitted) 
 
-# * <b>Alexander Davydov</b><sup>*</sup>, Saber Jafarpour<sup>*</sup>, Matthew Abate, Francesco Bullo, and Samuel Coogan. “Comparative Analysis of Interval Reachability for Robust Implicit and Feedforward Neural Networks,” <i>IEEE Conference on Decision and Control</i>, Dec. 2022. [[URL](https://arxiv.org/abs/2204.00187)] <b>To Appear</b>
+Conference Publications
+------
+* <b>A. Nguyen </b><sup> </sup>, Z. Shadram<sup></sup>, and Z. Kassas. “A lower bound for the error covariance of radio SLAM with terrestrial
+signals of opportunity,” <i>ION Global Navigation Satellite Systems Conference</i>, Sept. 2021., pp. 2294-2306. [[PDF]](https://alexngxyen.github.io/files/ION_2021_Second_Submission_Alex.pdf)
 
+* <b>A. Nguyen </b> and Z. Kassas. “Transmitter selection for improved information gathering in aerial vehicle
+navigation with terrestrial signals of opportunit,” <i>f ION International Technical Meeting</i>, Jan. 2022., pp. 723-734. [[PDF]](https://alexngxyen.github.io/files/ION_ITM_2022_Alex_Final_Submission.pdf)
 
-Talks
+<sup>*</sup> -- These authors contributed equally
+
+Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* **Programming:** MATLAB & Simulink, Python, Mathematica, C++, Arduino
+* **Software:** LaTeX, Microsoft Office Suite, Ipe, Git, Solidworks, AutoCAD, KiCAD, LTSpice
+* **Machine Tools:** Lathe, Mill, Band Saw, Drill Press, Soldering Iron, Laser Cutter
+* **Languages:** English (Native) and French (Elementary)
+
+Honors and Awards
+======
+* Graduate Assistance in Areas of National Need (GAANN) Fellowship
+* UCSB College of Engineering Honors Program and Dean's Honors List
+* Eagle Scout
   
-Teaching
+Professional Organizations
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* American Society of Mechanical Engineers (AMSE), Student Member
+* Institute of Electrical and Electronic Engineers (IEEE), Student Member
+* Institute of Navigation (ION), Student Member
+* National Eagle Scout Association (NESA), Eagle Scout Member
