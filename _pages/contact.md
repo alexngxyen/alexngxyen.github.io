@@ -9,7 +9,7 @@ author_profile: true
 **Email:** alexaan2[at]uci[dot]edu <br/>
 
 **Address:**  <br/>
-Alexander A. Nguyen <br/>
+Alexander Nguyen <br/>
 Department of Mechanical and Aerospace Engineering <br/>
 4200 Engineering Gateway Building <br/>
 University of California, Irvine <br/>
