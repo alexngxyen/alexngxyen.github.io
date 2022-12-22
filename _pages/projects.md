@@ -22,7 +22,7 @@ author_profile: true
 * [Computational Modeling and Simulation](#p2)
   - [Bouncing Ball Simulation](#2a)
   - [Upwind Advection Simulation](#p2b)
-  - [Diffusion Simulation] (#p2c)
+  - [Diffusion Simulation](#p2c)
   - [Oil Spill Concentration Simulation](#p2d)
 * [Compressed Air Motor](#p1)
 
