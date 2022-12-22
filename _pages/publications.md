@@ -27,4 +27,4 @@ Thesis
 ------
 * <b>A. Nguyen</b>. “Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection,” <i>University of California Irvine</i>, June 2022. [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf) 
 
-<sup>*</sup> -- inidicates equal author contribution
+<sup>*</sup> -- indicates equal author contribution
