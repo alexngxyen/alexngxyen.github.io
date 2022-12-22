@@ -53,8 +53,6 @@ author_profile: true
   <iframe src="https://www.youtube.com/embed/wKkle1032tw" width="480" height="270" ></iframe>
 </p>
 
-<!--[Design Competition Video](https://www.youtube.com/watch?v=wKkle1032tw"CG Automation Design Competition Video 2020") -->
-
 **Desciption:** This was the senior capstone project assigned to a team of five mechanical engineers (including myself) sponsored by Strand Products Incorporated (Inc) as part of University of California Santa Barabara's (UCSB) three quarter long capstone series. Strand Products Inc asked our team to automate the cable cutting process by developing an electromechanical system which can seamlessly integrate with an existing Ewald ﬂash cutter. Typically the setup for cutting cable (e.g., machine preparation, cable measuring, cable dereeling, ect.) are arduously performed by a lab technician resulting in slow manufacturing cycle times. The developed autonomous cable cutting system is intended to mimic the lab technician's hands during each cutting job by utilizing a suite of sensors, pneumatic actuators, stepper motors, and microcontrollers. Our team's design solution contained a cable dereeler, feeder system, cable cutter, and extraction system. The final product was intended to be user friendly by having a simple touchscreen graphical user interface (GUI) such that individuals can easily specify their desired cable length and quantity for each cutting job, among other things, during the set up phase. The final design was intended to be safe to use with minimal supervision and robust to varying cable cutting job types (e.g., change of spool size, cable material, or cable sizes). Our team was able to successfully optimize Strand Products Inc's time while being able to accurately and precisely cutting large amounts of cable. <br/>  
 
 <p align="center">
@@ -149,7 +147,6 @@ author_profile: true
 
 <p align="center">
   <img src="https://alexngxyen.github.io/images/automatic_plant.jpg" width="700">
-  <!-- <img src="https://alexngxyen.github.io/images/ME_153_Design_Poster.jpg" width=75% height=75%> -->
 </p>
 
 **Description:** This was the junior design project that a team of five mechanical engineers (including myself) built over six weeks as part of the University of California Santa Barbara's (UCSB) "Introduction to Mechanical Design" course. Our team built a device to autonomously rotate a hanging plant to evenly distribute sunlight to all sides of a plant throughout the day. A photoresistor is used to measure the ambient light intensity values which incentivizes the plant to rotate accordingly. The automated rotations were controlled using an Arduino Nano connected to a DC motor. A housing was created for the electrical devices from a strong polymer material where we made it robust by machining plastic stoppers to dampen vibrations and included evenly distributed holes to minimize the residual heat created from the electrical components. <br/>
@@ -175,8 +172,8 @@ author_profile: true
   </p>
   
   <p align="center">
-    <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="280" height="180" allow="autoplay"></iframe>
-    <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="280" height="180" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="250" height="180" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="250" height="180" allow="autoplay"></iframe>
   </p>
   
   *  **Description:** This project aimed to simulate the upwind scheme by solving the two-dimensional (2-D) advection equation to obtain the advection solution and the velocity field.
