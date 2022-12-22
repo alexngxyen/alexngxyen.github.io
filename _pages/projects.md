@@ -74,5 +74,3 @@ author_profile: true
 </p>
 
 **Description:** Assembled the compressed air motor while adhering to specified dimension and tolerance values. Machine shop tools, such as the lathe, mill, band saw, hack saw, calipers, drills, and taps, were used to machine the different parts. My time was efficiently managed to machine, construct, and test the final design product within six weeks. My compressed air motor had a max RPM of 2300 and an idle RPM of 700 after testing. <br/>
-
-{% include base_path %}
