@@ -22,7 +22,8 @@ author_profile: true
 **Date:** Spring Quarter 2021 <br/>
 **Description:** This project was two-folded. (1) Implemented one of the bug algorithms and the decomposition & search method algorithm to plan a robot's path from any start point to any goal point in the free work space. (2) Implemented an extended Kalman filter (EKF) using relative range and bearing measurements for (i) robot localization and (ii) simultaneous robot localization and measurement beacon mapping. <br/>
 
-... include pdf report ...
+(1) Motion Planning Project Report [[PDF]](https://alexngxyen.github.io/files/MAE_195_Project_1_Report.pdf) <br/>
+(2) Robot Localization and SLAM Report [[PDF]](https://alexngxyen.github.io/files/MAE_195_Project_2_Report.pdf) <br/>
 
 ## Learning Machine Classifier Comparison <a name="p2"></a>
 **Date:** Spring Quarter 2021 <br/>
