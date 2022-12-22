@@ -43,9 +43,8 @@ author_profile: true
 **Awards:** Best Technical Project in Mechanical Engineering & Best Project Pitch
 <p align="center">
   <img src="https://alexngxyen.github.io/images/Final_Product_Image.png">
+  <iframe src="https://www.youtube.com/watch?v=wKkle1032tw" width="480" height="270" ></iframe>
 </p>
-
-<iframe src="https://www.youtube.com/watch?v=wKkle1032tw" width="480" height="270" ></iframe>
 
 <!--[Design Competition Video](https://www.youtube.com/watch?v=wKkle1032tw"CG Automation Design Competition Video 2020") -->
 
@@ -82,9 +81,15 @@ author_profile: true
 
 ## Plastic Degradation Toggle Switch <a name="p7"></a>
 **Date:** Fall Quarter 2019 <br/>
-**Description:** This project involved writing a research proposal describing a potential biological computing problem, contains a literature review, and discusses the hypothesized solution's impact on the environment. My project focused on a plastic degredation toggle switch which could break down the PET plastics floating throughout vast water ecosystems (e.g., rivers, oceans, seas, ect.). The challenge of this problem is to develop a plastic degrading enzyme which does not harm the ambient marine life in the environment. 
 
-... indclude project report ...
+<p align="center">
+  <img src="https://alexngxyen.github.io/images/image_1.png">
+  <img src="https://alexngxyen.github.io/images/image_2.png">
+</p>
+
+**Description:** This project involved writing a research proposal describing a potential biological computing problem, contains a literature review, and discusses the hypothesized solution's impact on the environment. My project focused on a plastic degredation toggle switch which could break down the PET plastics floating throughout vast water ecosystems (e.g., rivers, oceans, seas, ect.). The challenge of this problem is to develop a plastic degrading enzyme which does not harm the ambient marine life in the environment. <br/>
+
+- Research Proposal [[PDF]](https://alexngxyen.github.io/files/Plastic_Degredation_Toggle_Switch.pdf) <br/>  
 
 ## Robotic Path-Planning and Control Labs <a name="p8"></a>
 **Date:** Fall Quarter 2019 <br/>
