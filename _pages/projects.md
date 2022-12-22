@@ -39,12 +39,20 @@ author_profile: true
 ## Automated Flash Cable Cutter (Senior Capstone Project) <a name="p4"></a>
 **Date:** Fall Quarter 2019 - Spring Quarter 2020  <br/>
 **Desciption:**  <br/>  
+This was the senior capstone project assigned to a team of five mechanical engineers (including myself) which was sponsored by Strand Products Incorporated (Inc) as part of University of California Santa Barabara's (UCSB) three quarter long capstone series. Strand Products Inc asked our team to automate the cable cutting process by developing an electromechanical system which can seamlessly integrate with an existing Ewald ﬂash cutter. Typically the setup for cutting cable (e.g., machine preparation, cable measuring, cable dereeling, ect.) are arduously performed by a lab technician resulting in slow manufacturing cycle times. The developed autonomous cable cutting system is intended to mimic the lab technician's hands during each cutting job by utilizing a suite of sensors, pneumatic actuators, stepper motors, and microcontrollers. Our team's design solution contained a cable dereeler, feeder system, cable cutter, and extraction system. The final product was intended to be user friendly by having a simple touchscreen graphical user interface (GUI) such that individuals can easily specify their desired cable length and quantity for each cutting job, among other things, during the set up phase. The final design was intended to be safe to use with minimal supervision and robust to varying cable cutting job types (e.g., change of spool size, cable material, or cable sizes). Our team was able to successfully optimize Strand Products Inc's time while being able to accurately and precisely cutting large amounts of cable. 
+ 
 <!-- <iframe src="https://www.youtube.com/embed/Hova4bMiVZg" width="480" height="270" ></iframe> -->
 
 
 ## Two Cart System System Identification and Control <a name="p5"></a>
-**Date:** Spring Quarter 2020 
+**Date:** Spring Quarter 2020 <br/>
 
+
+... include an image of the two cart system ...
+
+**Description:** This project was to perform system identification of a two cart system connected by a spring, then synthesis a closed-loop feedback controller for the identified model which satisfies several performance requirements. There were four parts: (1) expriment data collection, (2) system identification using nonparametric and parametric methods, (3) controller design, and (4) controller design testing.
+
+... include a pdf report ...
 
 ## Amphibious Climbing Soft Robot <a name="p6"></a>
 **Date:** Winter Quarter 2020
