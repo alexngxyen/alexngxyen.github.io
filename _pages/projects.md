@@ -124,8 +124,8 @@ author_profile: true
   
 * Omnibot: Path Planning Square and Circle  <a name="p4c"></a>
   <p align="center">
-    <iframe src="https://drive.google.com/file/d/1jNwVhaoBjV1Uk_1Hg4bzypUY43nu47gy/preview" width="480" height="280" allow="autoplay"></iframe>
-    <iframe src="https://drive.google.com/file/d/16OpMTcEGmPgyUQ_EgaSQVchVo7_OblKp/preview" width="480" height="280" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1jNwVhaoBjV1Uk_1Hg4bzypUY43nu47gy/preview" width="400" height="200" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/16OpMTcEGmPgyUQ_EgaSQVchVo7_OblKp/preview" width="400" height="200" allow="autoplay"></iframe>
   </p>
 
   * **Description:** This laboratory focused on coordinating a single omnibot to drive in a circle and square pattern. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the omnibot. Forward kinematics were used to find the omnibot's actual path from the angles obtained in simulink. <br/>
@@ -167,13 +167,8 @@ author_profile: true
 
 * Upwind Advection Simulation <a name="p2b"></a>
   <p align="center">
-    <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="480" height="280" allow="autoplay"></iframe>
-    <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="480" height="280" allow="autoplay"></iframe>
-  </p>
-  
-  <p align="center">
-    <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="250" height="180" allow="autoplay"></iframe>
-    <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="250" height="180" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="400" height="200" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="400" height="200" allow="autoplay"></iframe>
   </p>
   
   *  **Description:** This project aimed to simulate the upwind scheme by solving the two-dimensional (2-D) advection equation to obtain the advection solution and the velocity field.
