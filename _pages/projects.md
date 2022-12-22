@@ -20,7 +20,7 @@ author_profile: true
   - [Omnibot: Point Tracking & Control](#p4d)
 * [Automated Hanging Plant Rotator (Junior Design Project)](#p3)
 * [Computational Modeling and Simulation](#p2)
-  - [Bouncing Ball Simulation](#2a)
+  - [Bouncing Ball Simulation](#p2a)
   - [Upwind Advection Simulation](#p2b)
   - [Diffusion Simulation](#p2c)
   - [Oil Spill Concentration Simulation](#p2d)
@@ -172,6 +172,11 @@ author_profile: true
   <p align="center">
     <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="480" height="280" allow="autoplay"></iframe>
     <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="480" height="280" allow="autoplay"></iframe>
+  </p>
+  
+  <p align="center">
+    <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="280" height="180" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="280" height="180" allow="autoplay"></iframe>
   </p>
   
   *  **Description:** This project aimed to simulate the upwind scheme by solving the two-dimensional (2-D) advection equation to obtain the advection solution and the velocity field.
