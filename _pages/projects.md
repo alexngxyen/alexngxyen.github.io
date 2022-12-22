@@ -42,7 +42,7 @@ author_profile: true
 **Date:** Fall Quarter 2019 - Spring Quarter 2020  <br/>
 **Awards:** Best Technical Project in Mechanical Engineering & Best Project Pitch
 <p align="center">
-  <img src="https://alexngxyen.github.io/images/Final_Product_Image.png"  width=65% height=65%>
+  <img src="https://alexngxyen.github.io/images/Final_Product_Image.png" width=55% height=55%>
 <iframe src="https://www.youtube.com/embed/wKkle1032tw" width="480" height="270" ></iframe>
 </p>
 
@@ -95,20 +95,43 @@ author_profile: true
 **Date:** Fall Quarter 2019 <br/>
 
 * Two-Link Arm: Triangle Path Planning & Control
+  <p align="center">
+    <img src="https://alexngxyen.github.io/images/Triangle_Path.png">
+  </p>
+  
   * **Description:** This laboratory focused on tracing a triangle using a two-link arm. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the robotic arm's end effector coordinates. Forward kinematics were used to find the laser path from the angles outputted in simulink. <br/>
-  ... include images and report ...  
+  
+  - Lab Report [[PDF]](https://alexngxyen.github.io/files/Lab_1A.pdf) <br/>   
   
 * Two-Link Arm: Maze Path Planning & Control
+  <p align="center">
+    <img src="https://alexngxyen.github.io/images/Angle_Tracking.png">
+    <img src="https://alexngxyen.github.io/images/maze.png">
+  </p>
+
   * **Description:** This laboratory focused on having a laser pointer reach the end a goal point within a maze as fast as possible without exiting the specified boundaries. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the robotic arm's end effector coordinates. Forward kinematics were used to find the laser path from the angles outputted in simulink. <br/>
-  .... include images and report ...  
+
+  - Lab Report [[PDF]](https://alexngxyen.github.io/files/Lab_1B_Report.pdf) <br/>  
   
 * Omnibot: Path Planning Square and Circle
+  <p align="center">
+    <iframe src="https://drive.google.com/file/d/1jNwVhaoBjV1Uk_1Hg4bzypUY43nu47gy/preview" width="640" height="480" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/16OpMTcEGmPgyUQ_EgaSQVchVo7_OblKp/preview" width="640" height="480" allow="autoplay"></iframe>
+  </p>
+
   * **Description:** This laboratory focused on coordinating a single omnibot to drive in a circle and square pattern. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the omnibot. Forward kinematics were used to find the omnibot's actual path from the angles obtained in simulink. <br/>
-  .... include images and report ...  
+
+- Lab Report [[PDF]](https://alexngxyen.github.io/files/Lab_2A.pdf) <br/>   
   
 * Omnibot: Point Tracking & Control
+  <p align="center">
+    <iframe src="https://drive.google.com/file/d/1DZIEPTFzLKw_gvt6EwQ1PUEQ9wdhX6-X/preview" width="640" height="480" allow="autoplay"></iframe>
+  </p>
+
   * **Description:** This laboratory focused on having an omnibot trace a semicircle while a laser tracks a user-specified point. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the omnibot. Forward kinematics were used to find the laser path from the angles outputted in simulink. <br/>
-  .... include images and report ...  
+
+- Pre-Lab Results [[PDF]](https://alexngxyen.github.io/files/Nguyen_Alex_Prelab2b.pdf) <br/> 
+- Lab Report [[PDF]](https://alexngxyen.github.io/files/Lab_2B_Report.pdf) <br/> 
 
 ## Automated Hanging Plant Rotator (Junior Design Project) <a name="p9"></a>
 **Date:** Spring Quarter 2019 <br/>
