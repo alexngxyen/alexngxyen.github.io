@@ -112,9 +112,14 @@ author_profile: true
 
 ## Automated Hanging Plant Rotator (Junior Design Project) <a name="p9"></a>
 **Date:** Spring Quarter 2019 <br/>
+
+<p align="center">
+  <img src="https://alexngxyen.github.io/images/ME_153_Design_Poster.jpg">
+</p>
+
 **Description:** This was the junior design project that a team of five mechanical engineers (including myself) built over six weeks as part of the University of California Santa Barbara's (UCSB) "Introduction to Mechanical Design" course. Our team built a device to autonomously rotate a hanging plant to evenly distribute sunlight to all sides of a plant throughout the day. A photoresistor is used to measure the ambient light intensity values which incentivizes the plant to rotate accordingly. The automated rotations were controlled using an Arduino Nano connected to a DC motor. A housing was created for the electrical devices from a strong polymer material where we made it robust by machining plastic stoppers to dampen vibrations and included evenly distributed holes to minimize the residual heat created from the electrical components. <br/>
 
- .... include poster board and final report ... 
+- Final Report [[PDF]](https://alexngxyen.github.io/files/SB_Goats_Final_Report.pdf) <br/>  
 
 ## Computational Modeling and Simulation <a name="p10"></a>
 **Date:** Spring Quarter 2019 <br/>
