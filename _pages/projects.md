@@ -103,7 +103,7 @@ author_profile: true
 ## Robotic Path-Planning and Control Labs <a name="p4"></a>
 **Date:** Fall Quarter 2019 <br/>
 
-* Two-Link Arm: Triangle Path Planning & Control  <a name="p4a"></a>
+* ***Two-Link Arm: Triangle Path Planning & Control***  <a name="p4a"></a>
   <p align="center">
     <img src="https://alexngxyen.github.io/images/Triangle_Path.png">
   </p>
@@ -112,7 +112,7 @@ author_profile: true
   
   - Lab Report [[PDF]](https://alexngxyen.github.io/files/Lab_1A.pdf) <br/>   
   
-* Two-Link Arm: Maze Path Planning & Control  <a name="p4b"></a>
+* ***Two-Link Arm: Maze Path Planning & Control***  <a name="p4b"></a>
   <p align="center">
     <img src="https://alexngxyen.github.io/images/Angle_Tracking.png">
     <img src="https://alexngxyen.github.io/images/maze.png">
@@ -122,7 +122,7 @@ author_profile: true
 
   - Lab Report [[PDF]](https://alexngxyen.github.io/files/Lab_1B_Report.pdf) <br/>  
   
-* Omnibot: Path Planning Square and Circle  <a name="p4c"></a>
+* ***Omnibot: Path Planning Square and Circle***  <a name="p4c"></a>
   <p align="center">
     <iframe src="https://drive.google.com/file/d/1jNwVhaoBjV1Uk_1Hg4bzypUY43nu47gy/preview" width="400" height="200" allow="autoplay"></iframe>
     <iframe src="https://drive.google.com/file/d/16OpMTcEGmPgyUQ_EgaSQVchVo7_OblKp/preview" width="400" height="200" allow="autoplay"></iframe>
@@ -132,7 +132,7 @@ author_profile: true
 
 - Lab Report [[PDF]](https://alexngxyen.github.io/files/Lab_2A.pdf) <br/>   
   
-* Omnibot: Point Tracking & Control  <a name="p4d"></a>
+* ***Omnibot: Point Tracking & Control***  <a name="p4d"></a>
   <p align="center">
     <iframe src="https://drive.google.com/file/d/1DZIEPTFzLKw_gvt6EwQ1PUEQ9wdhX6-X/preview" width="480" height="280" allow="autoplay"></iframe>
   </p>
@@ -156,7 +156,7 @@ author_profile: true
 ## Computational Modeling and Simulation <a name="p2"></a>
 **Date:** Spring Quarter 2019 <br/>
 
-* Bouncing Ball Simulation <a name="p2a"></a>
+* ***Bouncing Ball Simulation*** <a name="p2a"></a>
   <p align="center">
     <iframe src="https://drive.google.com/file/d/1JaECVwixwH3ExrXA4h8BFqTg_1YRTC-G/preview" width="480" height="270" allow="autoplay"></iframe>
   </p>
@@ -165,7 +165,7 @@ author_profile: true
 
 - Final Report [[PDF]](https://alexngxyen.github.io/files/ME_17_HW2_report.pdf) <br/>   
 
-* Upwind Advection Simulation <a name="p2b"></a>
+* ***Upwind Advection Simulation*** <a name="p2b"></a>
   <p align="center">
     <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="400" height="200" allow="autoplay"></iframe>
     <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="400" height="200" allow="autoplay"></iframe>
@@ -175,7 +175,7 @@ author_profile: true
 
 - Final Report [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_HW4.pdf) <br/>   
 
-* Diffusion Simulation <a name="p2c"></a>
+* ***Diffusion Simulation*** <a name="p2c"></a>
   <p align="center">
     <iframe src="https://drive.google.com/file/d/1u10muevlDhQp-gqbWTKRL0u8R7EbrVAg/preview" width="480" height="280" allow="autoplay"></iframe>
   </p>
@@ -184,7 +184,7 @@ author_profile: true
 
 - Final Report [[PDF]](https://alexngxyen.github.io/files/Nguyen_Alex_HW5.pdf) <br/>   
  
-* Oil Spill Concentration Simulation <a name="p2d"></a>
+* ***Oil Spill Concentration Simulation*** <a name="p2d"></a>
   <p align="center">
     <iframe src="https://drive.google.com/file/d/1-dsMsxM6IZ8mjn1-GOI3y7AxNpq56Oy-/preview" width="480" height="280" allow="autoplay"></iframe>
   </p>
