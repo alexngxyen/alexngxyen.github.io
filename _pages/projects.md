@@ -45,10 +45,9 @@ author_profile: true
 ... include a link to the ucsb capstone page ...
 
 **Desciption:**  <br/>  
-This was the senior capstone project assigned to a team of five mechanical engineers (including myself) which was sponsored by Strand Products Incorporated (Inc) as part of University of California Santa Barabara's (UCSB) three quarter long capstone series. Strand Products Inc asked our team to automate the cable cutting process by developing an electromechanical system which can seamlessly integrate with an existing Ewald ﬂash cutter. Typically the setup for cutting cable (e.g., machine preparation, cable measuring, cable dereeling, ect.) are arduously performed by a lab technician resulting in slow manufacturing cycle times. The developed autonomous cable cutting system is intended to mimic the lab technician's hands during each cutting job by utilizing a suite of sensors, pneumatic actuators, stepper motors, and microcontrollers. Our team's design solution contained a cable dereeler, feeder system, cable cutter, and extraction system. The final product was intended to be user friendly by having a simple touchscreen graphical user interface (GUI) such that individuals can easily specify their desired cable length and quantity for each cutting job, among other things, during the set up phase. The final design was intended to be safe to use with minimal supervision and robust to varying cable cutting job types (e.g., change of spool size, cable material, or cable sizes). Our team was able to successfully optimize Strand Products Inc's time while being able to accurately and precisely cutting large amounts of cable. 
+This was the senior capstone project assigned to a team of five mechanical engineers (including myself) sponsored by Strand Products Incorporated (Inc) as part of University of California Santa Barabara's (UCSB) three quarter long capstone series. Strand Products Inc asked our team to automate the cable cutting process by developing an electromechanical system which can seamlessly integrate with an existing Ewald ﬂash cutter. Typically the setup for cutting cable (e.g., machine preparation, cable measuring, cable dereeling, ect.) are arduously performed by a lab technician resulting in slow manufacturing cycle times. The developed autonomous cable cutting system is intended to mimic the lab technician's hands during each cutting job by utilizing a suite of sensors, pneumatic actuators, stepper motors, and microcontrollers. Our team's design solution contained a cable dereeler, feeder system, cable cutter, and extraction system. The final product was intended to be user friendly by having a simple touchscreen graphical user interface (GUI) such that individuals can easily specify their desired cable length and quantity for each cutting job, among other things, during the set up phase. The final design was intended to be safe to use with minimal supervision and robust to varying cable cutting job types (e.g., change of spool size, cable material, or cable sizes). Our team was able to successfully optimize Strand Products Inc's time while being able to accurately and precisely cutting large amounts of cable. 
  
 ... include design packet, design presentation, pcb schematic ...
-
 
 ## Two Cart System System Identification and Control <a name="p5"></a>
 **Date:** Spring Quarter 2020 <br/>
@@ -64,23 +63,43 @@ This was the senior capstone project assigned to a team of five mechanical engin
 
 ... include project images ...
 
-**Description:** This project was designed for a team of two people to fabricate a soft robot which can traverse 1 meter carrying a 100 gram mass. We decided to recreate an ampibious climbing soft robot (ACSR). This specific soft robot took many iterations of different silicone casting molds to successfully fabricate the correct air pathway configuration which creates a suction force required for a walking gait. The final iteration of the ACSR worm was able to move forwards and backwards but we were unable to change the worm's heading angle. 
+**Description:** This project was designed for a team of two people to fabricate a soft robot which can traverse 1 meter carrying a 100 gram mass. We decided to recreate an ampibious climbing soft robot (ACSR). This specific soft robot took many iterations of different silicone casting molds to successfully fabricate the correct air pathway configuration which creates a suction force required for a walking gait. The final iteration of the ACSR worm was able to move forwards and backwards but we were unable to design a method to change the worm's heading (or yaw) angle. 
 
 ... include project report ...
 
-## Plastic Degradation Toggle Switch Research Proposal <a name="p7"></a>
-**Date:** Fall Quarter 2019
+## Plastic Degradation Toggle Switch <a name="p7"></a>
+**Date:** Fall Quarter 2019 <br/>
+**Description:** This project involved writing a research proposal describing a potential biological computing problem, contains a literature review, and discusses the hypothesized solution's impact on the environment. My project focused on a plastic degredation toggle switch which could break down the PET plastics floating throughout vast water ecosystems (e.g., rivers, oceans, seas, ect.). The challenge of this problem is to develop a plastic degrading enzyme which does not harm the ambient marine life in the environment. 
 
+... indclude project report ...
 
 ## Robotic Path-Planning and Control Labs <a name="p8"></a>
-**Date:** Fall Quarter 2019
+**Date:** Fall Quarter 2019 <br/>
 
+* Two-Link Arm: Triangle Path Planning & Control
+  * **Description:** This laboratory focused on tracing a triangle using a two-link arm. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the robotic arm's end effector coordinates. Forward kinematics were used to find the laser path from the angles outputted in simulink. <br/>
+  ... include images and report ...  
+  
+* Two-Link Arm: Maze Path Planning & Control
+  * **Description:** This laboratory focused on having a laser pointer reach the end a goal point within a maze as fast as possible without exiting the specified boundaries. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the robotic arm's end effector coordinates. Forward kinematics were used to find the laser path from the angles outputted in simulink. <br/>
+  .... include images and report ...  
+  
+* Omnibot: Path Planning Square and Circle
+  * **Description:** This laboratory focused on coordinating a single omnibot to drive in a circle and square pattern. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the omnibot. Forward kinematics were used to find the omnibot's actual path from the angles obtained in simulink. <br/>
+  .... include images and report ...  
+  
+* Omnibot: Point Tracking & Control
+  * **Description:** This laboratory focused on having an omnibot trace a semicircle while a laser tracks a user-specified point. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the omnibot. Forward kinematics were used to find the laser path from the angles outputted in simulink. <br/>
+  .... include images and report ...  
 
 ## Automated Hanging Plant Rotator (Junior Design Project) <a name="p9"></a>
-**Date:** Spring Quarter 2019
+**Date:** Spring Quarter 2019 <br/>
+**Description:** This was the junior design project that a team of five mechanical engineers (including myself) built over six weeks as part of the University of California Santa Barbara's (UCSB) "Introduction to Mechanical Design" course. Our team built a device to autonomously rotate a hanging plant to evenly distribute sunlight to all sides of a plant throughout the day. A photoresistor is used to measure the ambient light intensity values which incentivizes the plant to rotate accordingly. The automated rotations were controlled using an Arduino Nano connected to a DC motor. A housing was created for the electrical devices from a strong polymer material where we made it robust by machining plastic stoppers to dampen vibrations and included evenly distributed holes to minimize the residual heat created from the electrical components.
+
+ .... include poster board and final report ... 
 
 ## Computational Modeling and Simulation <a name="p10"></a>
-**Date:** Spring Quarter 2019
+**Date:** Spring Quarter 2019 <br/>
 
 * Project 1
   * ...  
