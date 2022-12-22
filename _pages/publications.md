@@ -9,10 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-Thesis
-------
-* <b>A. Nguyen</b>. “Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection,” <i>University of California Irvine</i>, June 2022. [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf) 
-
 Journal Publications
 ------
 
@@ -27,4 +23,8 @@ signals of opportunity,” <i>ION Global Navigation Satellite Systems Conference
 * <b>A. Nguyen </b> and Z. Kassas. “Transmitter selection for improved information gathering in aerial vehicle
 navigation with terrestrial signals of opportunit,” <i>f ION International Technical Meeting</i>, Jan. 2022., pp. 723-734. [[PDF]](https://alexngxyen.github.io/files/ION_ITM_2022_Alex_Final_Submission.pdf)
 
-<sup>*</sup> -- These authors contributed equally
+Thesis
+------
+* <b>A. Nguyen</b>. “Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection,” <i>University of California Irvine</i>, June 2022. [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf) 
+
+<sup>*</sup> -- inidicates equal author contribution
