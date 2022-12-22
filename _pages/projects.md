@@ -14,9 +14,14 @@ author_profile: true
 * [Amphibious Climbing Soft Robot](#p6)
 * [Plastic Degradation Toggle Switch Research Proposal](#p7)
 * [Robotic Path-Planning and Control Labs](#p8)
+  - [Two-Link Arm: Triangle Path Planning & Control](#p8b)
+  - [Two-Link Arm: Maze Path Planning & Control](#p8a)
+  - [Omnibot: Path Planning Square and Circle](#p8c)
+  - [Omnibot: Point Tracking & Control](#p8d)
 * [Automated Hanging Plant Rotator (Junior Design Project)](#p9)
 * [Computational Modeling and Simulation](#p10)
 * [Compressed Air Motor](#p11)
+
 
 ## Robot Motion Planning and Localization <a name="p1"></a>
 **Date:** Spring Quarter 2021 <br/>
@@ -42,8 +47,8 @@ author_profile: true
 **Date:** Fall Quarter 2019 - Spring Quarter 2020  <br/>
 **Awards:** Best Technical Project in Mechanical Engineering & Best Project Pitch
 <p align="center">
-  <img src="https://alexngxyen.github.io/images/Final_Product_Image.png" width=55% height=55%>
-<iframe src="https://www.youtube.com/embed/wKkle1032tw" width="480" height="270" ></iframe>
+  <img src="https://alexngxyen.github.io/images/Final_Product_Image.png" width="450" height="250">
+  <iframe src="https://www.youtube.com/embed/wKkle1032tw" width="480" height="270" ></iframe>
 </p>
 
 <!--[Design Competition Video](https://www.youtube.com/watch?v=wKkle1032tw"CG Automation Design Competition Video 2020") -->
@@ -94,7 +99,7 @@ author_profile: true
 ## Robotic Path-Planning and Control Labs <a name="p8"></a>
 **Date:** Fall Quarter 2019 <br/>
 
-* Two-Link Arm: Triangle Path Planning & Control
+* Two-Link Arm: Triangle Path Planning & Control  <a name="p8a"></a>
   <p align="center">
     <img src="https://alexngxyen.github.io/images/Triangle_Path.png">
   </p>
@@ -103,7 +108,7 @@ author_profile: true
   
   - Lab Report [[PDF]](https://alexngxyen.github.io/files/Lab_1A.pdf) <br/>   
   
-* Two-Link Arm: Maze Path Planning & Control
+* Two-Link Arm: Maze Path Planning & Control  <a name="p8b"></a>
   <p align="center">
     <img src="https://alexngxyen.github.io/images/Angle_Tracking.png">
     <img src="https://alexngxyen.github.io/images/maze.png">
@@ -113,7 +118,7 @@ author_profile: true
 
   - Lab Report [[PDF]](https://alexngxyen.github.io/files/Lab_1B_Report.pdf) <br/>  
   
-* Omnibot: Path Planning Square and Circle
+* Omnibot: Path Planning Square and Circle  <a name="p8c"></a>
   <p align="center">
     <iframe src="https://drive.google.com/file/d/1jNwVhaoBjV1Uk_1Hg4bzypUY43nu47gy/preview" width="640" height="480" allow="autoplay"></iframe>
     <iframe src="https://drive.google.com/file/d/16OpMTcEGmPgyUQ_EgaSQVchVo7_OblKp/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -123,7 +128,7 @@ author_profile: true
 
 - Lab Report [[PDF]](https://alexngxyen.github.io/files/Lab_2A.pdf) <br/>   
   
-* Omnibot: Point Tracking & Control
+* Omnibot: Point Tracking & Control  <a name="p8d"></a>
   <p align="center">
     <iframe src="https://drive.google.com/file/d/1DZIEPTFzLKw_gvt6EwQ1PUEQ9wdhX6-X/preview" width="640" height="480" allow="autoplay"></iframe>
   </p>
@@ -137,7 +142,8 @@ author_profile: true
 **Date:** Spring Quarter 2019 <br/>
 
 <p align="center">
-  <img src="https://alexngxyen.github.io/images/ME_153_Design_Poster.jpg" width=75% height=75%>
+  <img src="https://alexngxyen.github.io/images/automatic_plant.jpg" width="700">
+  <!-- <img src="https://alexngxyen.github.io/images/ME_153_Design_Poster.jpg" width=75% height=75%> -->
 </p>
 
 **Description:** This was the junior design project that a team of five mechanical engineers (including myself) built over six weeks as part of the University of California Santa Barbara's (UCSB) "Introduction to Mechanical Design" course. Our team built a device to autonomously rotate a hanging plant to evenly distribute sunlight to all sides of a plant throughout the day. A photoresistor is used to measure the ambient light intensity values which incentivizes the plant to rotate accordingly. The automated rotations were controlled using an Arduino Nano connected to a DC motor. A housing was created for the electrical devices from a strong polymer material where we made it robust by machining plastic stoppers to dampen vibrations and included evenly distributed holes to minimize the residual heat created from the electrical components. <br/>
@@ -148,11 +154,16 @@ author_profile: true
 **Date:** Spring Quarter 2019 <br/>
 
 * Bouncing Ball Simulation
-  ... include images ...
+  <p align="center">
+    <iframe src="https://drive.google.com/file/d/1JaECVwixwH3ExrXA4h8BFqTg_1YRTC-G/preview" width="640" height="480" allow="autoplay"></iframe>
+  </p>
+
   * **Description:** This project aimed to capture the motion of a disk interacting with the walls of a closed container. The evolution for the disk's center of mass was found using Euler's scheme and Newton's second law of motion for an ordinary differential equation.  <br/>
-   .... final report ... 
+
+- Final Report [[PDF]](https://alexngxyen.github.io/files/ME_17_HW2_report.pdf) <br/>   
+
 * Upwind Advection Solution Simulation
-  ... include images ...
+  
   *  **Description:** This project aimed to simulate the upwind scheme by solving the two-dimensional (2-D) advection equation to obtain the advection solution and the velocity field.
    .... final report ...
 * Diffusion Concentration Simulation
