@@ -43,7 +43,7 @@ author_profile: true
 **Awards:** Best Technical Project in Mechanical Engineering & Best Project Pitch
 <p align="center">
   <img src="https://alexngxyen.github.io/images/Final_Product_Image.png">
-  <iframe src="https://www.youtube.com/watch?v=wKkle1032tw" width="480" height="270" ></iframe>
+<iframe src="https://www.youtube.com/embed/wKkle1032tw" width="480" height="270" ></iframe>
 </p>
 
 <!--[Design Competition Video](https://www.youtube.com/watch?v=wKkle1032tw"CG Automation Design Competition Video 2020") -->
