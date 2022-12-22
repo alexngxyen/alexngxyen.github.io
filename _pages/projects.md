@@ -6,52 +6,52 @@ author_profile: true
 ---
 
 # Table of Contents
-* [Robot Motion Planning and Localization](#Robot-Motion-Planning-and-Localization)
-* [Learning Machine Classifier Comparison](#Learning-Machine-Classifier-Comparison)
-* [Global Navigation Satellite System Software-Defined Radio](#Global-Navigation-Satellite-System-Software-Defined-Radio)
-* [Automated Flash Cable Cutter (Senior Capstone Project)](#Automated-Flash-Cable-Cutter-(Senior-Capstone-Project))
-* [Two Cart System System Identification and Control](#Two-Cart-System-System-Identification-and-Control)
+* [Robot Motion Planning and Localization](#p1)
+* [Learning Machine Classifier Comparison](#p2)
+* [Global Navigation Satellite System Software-Defined Radio](#p3)
+* [Automated Flash Cable Cutter (Senior Capstone Project)](#p4)
+* [Two Cart System System Identification and Control](#p5)
+* [Amphibious Climbing Soft Robot](#p6)
+* [Plastic Degradation Toggle Switch Research Proposal](#p7)
+* [Robotic Path-Planning and Control Labs](#p8)
+* [Automated Hanging Plant Rotator (Junior Design Project)](#p9)
+* [Computational Modeling and Simulation](#p10)
+* [Compressed Air Motor](#p11)
 
-## Robot Motion Planning and Localization <a name="Robot-Motion-Planning-and-Localization"></a>
+## Robot Motion Planning and Localization <a name="p1"></a>
 **Date:** Spring Quarter 2021 
 
-## Learning Machine Classifier Comparison <a name="Learning-Machine-Classifier-Comparison"></a>
+## Learning Machine Classifier Comparison <a name="p2"></a>
 **Date:** Spring Quarter 2021
 
-## Global Navigation Satellite System Software-Defined Radio <a name="Global-Navigation-Satellite-System-Software-Defined-Radio"></a>
+## Global Navigation Satellite System Software-Defined Radio <a name="p3"></a>
 **Date:** Fall Quarter 2020 
 
-## Automated Flash Cable Cutter (Senior Capstone Project) <a name="Automated-Flash-Cable-Cutter-(Senior-Capstone-Project)"></a>
+## Automated Flash Cable Cutter (Senior Capstone Project) <a name="p4"></a>
 **Date:** Fall Quarter 2019 - Spring Quarter 2020 
-
 <!-- <iframe src="https://www.youtube.com/embed/Hova4bMiVZg" width="480" height="270" ></iframe> -->
 
 
-## Two Cart System System Identification and Control <a name="Two-Cart-System-System-Identification-and-Control"></a>
+## Two Cart System System Identification and Control <a name="p5"></a>
 **Date:** Spring Quarter 2020 
 
 
-Amphibious Climbing Soft Robot 
-======
+## Amphibious Climbing Soft Robot <a name="p6"></a>
 **Date:** Winter Quarter 2020
 
 
-Plastic Degradation Toggle Switch Research Proposal
-======
+## Plastic Degradation Toggle Switch Research Proposal <a name="p7"></a>
 **Date:** Fall Quarter 2019
 
 
-Robotic Path-Planning and Control Labs
-======
+## Robotic Path-Planning and Control Labs <a name="p8"></a>
 **Date:** Fall Quarter 2019
 
 
-Automated Hanging Plant Rotator (Junior Design Project)
-======
+## Automated Hanging Plant Rotator (Junior Design Project) <a name="p9"></a>
 **Date:** Spring Quarter 2019
 
-Computational Modeling and Simulation
-======
+## Computational Modeling and Simulation <a name="p10"></a>
 **Date:** Spring Quarter 2019
 
 * Project 1
@@ -63,9 +63,7 @@ Computational Modeling and Simulation
 * Project 4
   *  ...
 
-
-Compressed Air Motor
-======
+## Compressed Air Motor <a name="p11"></a>
 **Date:** Fall Quarter 2018 <br/>
 
 <p align="center">
@@ -78,7 +76,3 @@ Compressed Air Motor
 **Description:** Assembled the compressed air motor while adhering to specified dimension and tolerance values. Machine shop tools, such as the lathe, mill, band saw, hack saw, calipers, drills, and taps, were used to machine the different parts. My time was efficiently managed to machine, construct, and test the final design product within six weeks. My compressed air motor had a max RPM of 2300 and an idle RPM of 700 after testing. <br/>
 
 {% include base_path %}
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
