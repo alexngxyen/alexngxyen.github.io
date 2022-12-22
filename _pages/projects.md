@@ -20,12 +20,21 @@ author_profile: true
 
 ## Robot Motion Planning and Localization <a name="p1"></a>
 **Date:** Spring Quarter 2021 
+**Description:** This project was two-folded. (1) Implemented one of the bug algorithms and the decomposition & search method algorithm to plan a robot's path from any start point to any goal point in the free work space. (2) Implemented an extended Kalman filter (EKF) using relative range and bearing measurements for (i) robot localization and (ii) simultaneous robot localization and measurement beacon mapping.
+
+... include pdf report ...
 
 ## Learning Machine Classifier Comparison <a name="p2"></a>
 **Date:** Spring Quarter 2021
+**Description:** This project studied the classification performance of several different learning machines, such as a feed-forward neural network (FFNN), k-nearest neighbors (K-NN), multi-class support vector machines (SVMs), and k-means clustering with principal component analysis (PCA), applied to the "wine data set" found on the "UCI Machine Learning Repository" which contains 13 wine attributes associated with three different wine classes. 
+
+... include pdf report ...
 
 ## Global Navigation Satellite System Software-Defined Radio <a name="p3"></a>
 **Date:** Fall Quarter 2020 
+**Description:** This project was to create a global navigation satellite system (GNSS) software-defined radio (SDR) from scratch to successfully acquire and track different pseudorandom noise (PRN) codes from the different GNSS constellations. The GNSS SDR output the code error (in chips), phase error (in degrees), estimated Doppler frequency (in Hz), carrier-to-noise ratio (in dB-Hz), tracked in-phase and quadrature components, and code phase estimate (in meters). Moreover, the extracted navigation observables, in the form of pseudoranges, will need to be compensated for correctly (ionospheric and tropospheric delays) in order to obtain an accurate navigation solution for a stationary receiver using a nonlinear least squares estimator.
+
+... include pdf report ...
 
 ## Automated Flash Cable Cutter (Senior Capstone Project) <a name="p4"></a>
 **Date:** Fall Quarter 2019 - Spring Quarter 2020 
@@ -73,4 +82,4 @@ author_profile: true
   <img src="https://alexngxyen.github.io/images/CAM_image_4.png">
 </p>
 
-**Description:** Assembled the compressed air motor while adhering to specified dimension and tolerance values. Machine shop tools, such as the lathe, mill, band saw, hack saw, calipers, drills, and taps, were used to machine the different parts. My time was efficiently managed to machine, construct, and test the final design product within six weeks. My compressed air motor had a max RPM of 2300 and an idle RPM of 700 after testing. <br/>
+**Description:** This project's goal was to assemble a compressed air motor while adhering to specified dimension and tolerance values. Machine shop tools, such as the lathe, mill, band saw, hack saw, calipers, drills, and taps, were used to machine the different parts. My time was efficiently managed to machine, construct, and test the final design product within six weeks. My compressed air motor had a max RPM of 2300 and an idle RPM of 700 after testing. <br/>
