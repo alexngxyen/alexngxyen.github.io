@@ -42,7 +42,7 @@ author_profile: true
 **Date:** Fall Quarter 2019 - Spring Quarter 2020  <br/>
 **Awards:** Best Technical Project in Mechanical Engineering & Best Project Pitch
 <p align="center">
-  <img src="https://alexngxyen.github.io/images/Final_Product_Image.png">
+  <img src="https://alexngxyen.github.io/images/Final_Product_Image.png"  width=65% height=65%>
 <iframe src="https://www.youtube.com/embed/wKkle1032tw" width="480" height="270" ></iframe>
 </p>
 
