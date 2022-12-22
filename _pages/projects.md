@@ -36,7 +36,7 @@ Final Project Report [[PDF]](https://alexngxyen.github.io/files/MAE_277_Final_Pr
 **Date:** Fall Quarter 2020 <br/>
 **Description:** This project was to create a global navigation satellite system (GNSS) software-defined radio (SDR) from scratch to successfully acquire and track different pseudorandom noise (PRN) codes from the different GNSS constellations. The GNSS SDR output the code error (in chips), phase error (in degrees), estimated Doppler frequency (in Hz), carrier-to-noise ratio (in dB-Hz), tracked in-phase and quadrature components, and code phase estimate (in meters). Moreover, the extracted navigation observables, in the form of pseudoranges, will need to be compensated for correctly (ionospheric and tropospheric delays) in order to obtain an accurate navigation solution for a stationary receiver using a nonlinear least squares estimator. <br/>
 
-... include pdf report ...
+Final Project Report [[PDF]](https://alexngxyen.github.io/files/MAE_295_Updated_Project.pdf) <br/> 
 
 ## Automated Flash Cable Cutter (Senior Capstone Project) <a name="p4"></a>
 **Date:** Fall Quarter 2019 - Spring Quarter 2020  <br/>
