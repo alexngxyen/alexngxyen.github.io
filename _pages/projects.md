@@ -5,6 +5,11 @@ permalink: /projects/
 author_profile: true
 ---
 
+<p align="center">
+  <img src="https://alexngxyen.github.io/images/Nguyen_Alex_Headshot.jpg">
+  <img src="https://alexngxyen.github.io/images/Nguyen_Alex_Headshot.jpg">
+</p>
+
 I study the control of network systems with applications to multi-robot systems. Specifically, the applications I have focused on are: 1) Guaranteed Capture in Multi-Player Reach-Avoid Games, 2) Coverage Control and its Applications.
 
 
