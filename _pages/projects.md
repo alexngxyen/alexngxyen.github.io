@@ -29,7 +29,8 @@ author_profile: true
 **Date:** Spring Quarter 2021 <br/>
 **Description:** This project studied the classification performance of several different learning machines, such as a feed-forward neural network (FFNN), k-nearest neighbors (K-NN), multi-class support vector machines (SVMs), and k-means clustering with principal component analysis (PCA), applied to the "wine data set" found on the "UCI Machine Learning Repository" which contains 13 wine attributes associated with three different wine classes.  <br/>
 
-... include pdf report ...
+Final Project Proposal [[PDF]](https://alexngxyen.github.io/files/MAE_277_Project_Proposal.pdf) <br/> 
+Final Project Report [[PDF]](https://alexngxyen.github.io/files/MAE_277_Final_Project.pdf) <br/> 
 
 ## Global Navigation Satellite System Software-Defined Radio <a name="p3"></a>
 **Date:** Fall Quarter 2020 <br/>
