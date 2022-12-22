@@ -59,7 +59,7 @@ Relevant Coursework
 * **Dynamics and Control:** 
   * Nonlinear Control Systems, Synthetic Biological Design and Computing, Linear Systems I, Learning Control Systems, Optimization Methods, Nonlinear Feedback Systems, Learning Control Systems, Dynamics (Lagrangian Mechanics, Engineering Analysis I <br/>
 * **Estimation Theory:** 
-  *Parameter and State Estimation, Advanced Detection and Estimation Theory, Random Processes, GNSS Signal Processing and SDR Design <br/>
+  * Parameter and State Estimation, Advanced Detection and Estimation Theory, Random Processes, GNSS Signal Processing and SDR Design <br/>
 * **Robotics:** 
   * Robot Locomotion Control, Soft Robotics, Robot Dynamics and Control, Robot Motion Planning & Navigation
 
