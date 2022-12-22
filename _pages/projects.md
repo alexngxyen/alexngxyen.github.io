@@ -22,34 +22,39 @@ author_profile: true
 **Date:** Spring Quarter 2021 <br/>
 **Description:** This project was two-folded. (1) Implemented one of the bug algorithms and the decomposition & search method algorithm to plan a robot's path from any start point to any goal point in the free work space. (2) Implemented an extended Kalman filter (EKF) using relative range and bearing measurements for (i) robot localization and (ii) simultaneous robot localization and measurement beacon mapping. <br/>
 
-(1) Motion Planning Project Report [[PDF]](https://alexngxyen.github.io/files/MAE_195_Project_1_Report.pdf) <br/>
-(2) Robot Localization and SLAM Report [[PDF]](https://alexngxyen.github.io/files/MAE_195_Project_2_Report.pdf) <br/>
+- Motion Planning Project Report [[PDF]](https://alexngxyen.github.io/files/MAE_195_Project_1_Report.pdf) <br/>
+- Robot Localization and SLAM Report [[PDF]](https://alexngxyen.github.io/files/MAE_195_Project_2_Report.pdf) <br/>
 
 ## Learning Machine Classifier Comparison <a name="p2"></a>
 **Date:** Spring Quarter 2021 <br/>
 **Description:** This project studied the classification performance of several different learning machines, such as a feed-forward neural network (FFNN), k-nearest neighbors (K-NN), multi-class support vector machines (SVMs), and k-means clustering with principal component analysis (PCA), applied to the "wine data set" found on the "UCI Machine Learning Repository" which contains 13 wine attributes associated with three different wine classes.  <br/>
 
-Final Project Proposal [[PDF]](https://alexngxyen.github.io/files/MAE_277_Project_Proposal.pdf) <br/> 
-Final Project Report [[PDF]](https://alexngxyen.github.io/files/MAE_277_Final_Project.pdf) <br/> 
+- Final Project Proposal [[PDF]](https://alexngxyen.github.io/files/MAE_277_Project_Proposal.pdf) <br/> 
+- Final Project Report [[PDF]](https://alexngxyen.github.io/files/MAE_277_Final_Project.pdf) <br/> 
 
 ## Global Navigation Satellite System Software-Defined Radio <a name="p3"></a>
 **Date:** Fall Quarter 2020 <br/>
 **Description:** This project was to create a global navigation satellite system (GNSS) software-defined radio (SDR) from scratch to successfully acquire and track different pseudorandom noise (PRN) codes from the different GNSS constellations. The GNSS SDR output the code error (in chips), phase error (in degrees), estimated Doppler frequency (in Hz), carrier-to-noise ratio (in dB-Hz), tracked in-phase and quadrature components, and code phase estimate (in meters). Moreover, the extracted navigation observables, in the form of pseudoranges, will need to be compensated for correctly (ionospheric and tropospheric delays) in order to obtain an accurate navigation solution for a stationary receiver using a nonlinear least squares estimator. <br/>
 
-Final Project Report [[PDF]](https://alexngxyen.github.io/files/MAE_295_Updated_Project.pdf) <br/> 
+- Final Project Report [[PDF]](https://alexngxyen.github.io/files/MAE_295_Updated_Project.pdf) <br/> 
 
 ## Automated Flash Cable Cutter (Senior Capstone Project) <a name="p4"></a>
 **Date:** Fall Quarter 2019 - Spring Quarter 2020  <br/>
+**Awards:** Best Technical Project in Mechanical Engineering & Best Project Pitch
+<p align="center">
+  <img src="https://alexngxyen.github.io/images/Final_Product_Image.png">
+  <iframe src="https://www.youtube.com/watch?v=wKkle1032tw&ab_channel=AlexNguyen" width="480" height="270" ></iframe>
+</p>
 
-... include final product photos & design competition youtube video ...
-<!-- <iframe src="https://www.youtube.com/embed/Hova4bMiVZg" width="480" height="270" ></iframe> -->
+<!--[Design Competition Video](https://www.youtube.com/watch?v=wKkle1032tw&ab_channel=AlexNguyen "CG Automation Design Competition Video 2020") -->
 
-... include a link to the ucsb capstone page ...
+**Desciption:** This was the senior capstone project assigned to a team of five mechanical engineers (including myself) sponsored by Strand Products Incorporated (Inc) as part of University of California Santa Barabara's (UCSB) three quarter long capstone series. Strand Products Inc asked our team to automate the cable cutting process by developing an electromechanical system which can seamlessly integrate with an existing Ewald ﬂash cutter. Typically the setup for cutting cable (e.g., machine preparation, cable measuring, cable dereeling, ect.) are arduously performed by a lab technician resulting in slow manufacturing cycle times. The developed autonomous cable cutting system is intended to mimic the lab technician's hands during each cutting job by utilizing a suite of sensors, pneumatic actuators, stepper motors, and microcontrollers. Our team's design solution contained a cable dereeler, feeder system, cable cutter, and extraction system. The final product was intended to be user friendly by having a simple touchscreen graphical user interface (GUI) such that individuals can easily specify their desired cable length and quantity for each cutting job, among other things, during the set up phase. The final design was intended to be safe to use with minimal supervision and robust to varying cable cutting job types (e.g., change of spool size, cable material, or cable sizes). Our team was able to successfully optimize Strand Products Inc's time while being able to accurately and precisely cutting large amounts of cable. <br/>  
 
-**Desciption:**  <br/>  
-This was the senior capstone project assigned to a team of five mechanical engineers (including myself) sponsored by Strand Products Incorporated (Inc) as part of University of California Santa Barabara's (UCSB) three quarter long capstone series. Strand Products Inc asked our team to automate the cable cutting process by developing an electromechanical system which can seamlessly integrate with an existing Ewald ﬂash cutter. Typically the setup for cutting cable (e.g., machine preparation, cable measuring, cable dereeling, ect.) are arduously performed by a lab technician resulting in slow manufacturing cycle times. The developed autonomous cable cutting system is intended to mimic the lab technician's hands during each cutting job by utilizing a suite of sensors, pneumatic actuators, stepper motors, and microcontrollers. Our team's design solution contained a cable dereeler, feeder system, cable cutter, and extraction system. The final product was intended to be user friendly by having a simple touchscreen graphical user interface (GUI) such that individuals can easily specify their desired cable length and quantity for each cutting job, among other things, during the set up phase. The final design was intended to be safe to use with minimal supervision and robust to varying cable cutting job types (e.g., change of spool size, cable material, or cable sizes). Our team was able to successfully optimize Strand Products Inc's time while being able to accurately and precisely cutting large amounts of cable. 
- 
-... include design packet, design presentation, pcb schematic ...
+**Website:** [Strand Products C.G. Automation](https://capstone.engineering.ucsb.edu/projects/strand-products-cg-automation)
+
+- Design Packet (Final Product Report) [[PDF]](https://drive.google.com/file/d/10hjroGt8Rv5S4S-wX_5Q6qTRCjsmiUaj/view?usp=share_link) <br/>  
+- Mechanical Engineering Design Competition Slides [[PDF]](https://alexngxyen.github.io/files/ME_Design_Competition_Slides) <br/>  
+- Printed Circuit Board (PCB) Schematic [[PDF]](https://alexngxyen.github.io/files/PCB_Schematic.pdf) <br/>  
 
 ## Two Cart System System Identification and Control <a name="p5"></a>
 **Date:** Spring Quarter 2020 <br/>
