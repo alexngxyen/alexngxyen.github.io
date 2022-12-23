@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Table of Contents
+## Table of Contents
 * [Robot Motion Planning and Localization](#p11)
 * [Learning Machine Classifier Comparison](#p10)
 * [Global Navigation Satellite System Software-Defined Radio](#p9)
