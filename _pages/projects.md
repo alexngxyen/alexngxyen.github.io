@@ -167,8 +167,8 @@ author_profile: true
 
 * ***Upwind Advection Simulation*** <a name="p2b"></a>
   <p align="center">
-    <iframe src="https://www.youtube.com/embed/gga_rrM8K1g" width="480" height="270" ></iframe>
-    <iframe src="https://www.youtube.com/embed/6WUwgtxSpv4" width="480" height="270" ></iframe>
+    <iframe src="https://www.youtube.com/embed/gga_rrM8K1g" width="350" height="150" ></iframe>
+    <iframe src="https://www.youtube.com/embed/6WUwgtxSpv4" width="350" height="150" ></iframe>
   </p>
 
 <!--  <p align="center">
