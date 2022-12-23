@@ -16,4 +16,4 @@ In June 2022, I received my M.S. in Mechanical and Aerospace Engineering from UC
 
 Prior to UCI, I received my B.S. with Honors in Mechanical Engineering from the University of California, Santa Barbara (UCSB) in June 2020. While at UCSB, I worked with [Prof. Enoch Yeung](https://engineering.ucsb.edu/people/enoch-yeung) in the [Biological Control, Computing, and Learning Laboratory](https://yeung.me.ucsb.edu/) on new methods for synthesis of genetics circuits for nonlinear biological systems.
 
-In my spare time, I enjoy bouldering, camping, hiking, playing sports (typically, soccer and tennis!), photography, and traveling. 
+In my spare time, I enjoy bouldering, camping, hiking, playing sports (especially, soccer and tennis!), photography, and traveling. 
