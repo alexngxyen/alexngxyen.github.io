@@ -124,8 +124,8 @@ author_profile: true
   
 * ***Omnibot: Path Planning Square and Circle***  <a name="p4c"></a>
   <p align="center">
-    <iframe src="https://www.youtube.com/embed/QnYyRaUosm4" width="350" height="150" ></iframe>   
-    <iframe src="https://www.youtube.com/embed/WkoLCtqwALU" width="350" height="150" ></iframe>   
+    <iframe src="https://www.youtube.com/embed/QnYyRaUosm4" width="450" height="250" ></iframe>   
+    <iframe src="https://www.youtube.com/embed/WkoLCtqwALU" width="450" height="250" ></iframe>   
   
   
     <!-- <iframe src="https://drive.google.com/file/d/1jNwVhaoBjV1Uk_1Hg4bzypUY43nu47gy/preview" width="400" height="200" allow="autoplay"></iframe>
@@ -138,7 +138,7 @@ author_profile: true
   
 * ***Omnibot: Point Tracking & Control***  <a name="p4d"></a>
   <p align="center">
-    <iframe src="https://www.youtube.com/embed/nqHYp-o45A0" width="350" height="150" ></iframe>   
+    <iframe src="https://www.youtube.com/embed/nqHYp-o45A0" width="450" height="250" ></iframe>   
   
     <!-- <iframe src="https://drive.google.com/file/d/1DZIEPTFzLKw_gvt6EwQ1PUEQ9wdhX6-X/preview" width="480" height="280" allow="autoplay"></iframe> -->
   </p>
@@ -164,7 +164,7 @@ author_profile: true
 
 * ***Bouncing Ball Simulation*** <a name="p2a"></a>
   <p align="center">
-    <iframe src="https://www.youtube.com/embed/1Z7kSlua7Io" width="350" height="150" ></iframe>   
+    <iframe src="https://www.youtube.com/embed/1Z7kSlua7Io" width="450" height="250" ></iframe>   
   
     <!-- <iframe src="https://drive.google.com/file/d/1JaECVwixwH3ExrXA4h8BFqTg_1YRTC-G/preview" width="480" height="270" allow="autoplay"></iframe> -->
   </p>
@@ -175,8 +175,8 @@ author_profile: true
 
 * ***Upwind Advection Simulation*** <a name="p2b"></a>
   <p align="center">
-    <iframe src="https://www.youtube.com/embed/gga_rrM8K1g" width="350" height="150" ></iframe>
-    <iframe src="https://www.youtube.com/embed/6WUwgtxSpv4" width="350" height="150" ></iframe>
+    <iframe src="https://www.youtube.com/embed/gga_rrM8K1g" width="450" height="250" ></iframe>
+    <iframe src="https://www.youtube.com/embed/6WUwgtxSpv4" width="450" height="250" ></iframe>
   
     <!--  <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="400" height="200" allow="autoplay"></iframe>
     <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="400" height="200" allow="autoplay"></iframe> -->
@@ -188,7 +188,7 @@ author_profile: true
 
 * ***Diffusion Simulation*** <a name="p2c"></a>
   <p align="center">
-   <iframe src="https://www.youtube.com/embed/_WiB7c81kck" width="350" height="150" ></iframe>   
+   <iframe src="https://www.youtube.com/embed/_WiB7c81kck" width="450" height="250" ></iframe>   
   
   <!-- <iframe src="https://drive.google.com/file/d/1u10muevlDhQp-gqbWTKRL0u8R7EbrVAg/preview" width="480" height="280" allow="autoplay"></iframe> -->
   </p>
@@ -199,7 +199,7 @@ author_profile: true
  
 * ***Oil Spill Concentration Simulation*** <a name="p2d"></a>
   <p align="center">
-    <iframe src="https://www.youtube.com/embed/nKflQwb-1KY" width="350" height="150" ></iframe>  
+    <iframe src="https://www.youtube.com/embed/nKflQwb-1KY" width="450" height="250" ></iframe>  
   
     <!--<iframe src="https://drive.google.com/file/d/1-dsMsxM6IZ8mjn1-GOI3y7AxNpq56Oy-/preview" width="480" height="280" allow="autoplay"></iframe> -->
   </p>
