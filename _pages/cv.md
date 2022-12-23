@@ -9,16 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * **Ph.D.** in Mechanical and Aerospace Engineering, University of California Irvine, June 2025 (*Expected*)  
 * **M.S.** in Mechanical and Aerospace Engineering, University of California Irvine, June 2022
   * *Thesis:* Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection  [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf)
 * **B.S. with Honors** in Mechanical Engineering, University of California Santa Barbara, June 2020
 * **A.S. with Honors** in Mechanical Engineering, Diablo Valley College, May 2018
 
-Research Experience
-======
+## Research Experience
 * Graduate Student Researcher, Robot Ecology Laboratory (Irvine, CA), Sept. 2022 - Present
   * ***Advisors:*** Prof. Faryar Jabbari and Prof. Magnus Egerstedt
   * Investigating the cooperative and collaborative control of heterogeneous multi-agent systems inspired by an ecological perspective.
@@ -37,8 +35,7 @@ Research Experience
   * Researched new methods for synthesis of genetic circuits for nonlinear biological systems using a data-driven approach.
   * Collaborated with three graduate students and a junior research associate on their synthetic biology projects which involved preparing experiments and performing data collection.
 
-Work Experience
-======
+## Work Experience
 * Electrical Engineering Intern, [Autonomy Technology Research Center Summer Program](https://udayton.edu/engineering/departments/electrical_and_computer/faculty_activities/atr-center-summer-program/index.php) (Dayton, OH), June 2021 - Sept. 2021 & <br/> June 2022 - Sept. 2022
   * ***Mentors:*** Mark Carroll and Mark Smearcheck
   * Created simulation environments in MATLAB and Python to study the estimation performance of the localization, mapping, and simultaneous localization and mapping (SLAM) frameworks for aircraft navigation with cellular signals of opportunity (SOPs).
@@ -47,15 +44,13 @@ Work Experience
   * Summarized the project's findings into presentation slides and a poster presented to 50+ attendees (e.g. fellow interns, local university professors, and Air Force Research Lab (AFRL) researchers).
   * Debriefed 15+ AFRL researchers in the Navigation and Communication Branch (RYWN) on the project  insights and results. 
 
-Skills
-======
+## Skills
 * **Program:** MATLAB & Simulink, Python, Mathematica, C++, Arduino
 * **Software:** LaTeX, Microsoft Office Suite, Ipe, Git, Solidworks, AutoCAD, KiCAD, LTSpice
 * **Machine Tools:** Lathe, Mill, Band Saw, Drill Press, Soldering Iron, Laser Cutter
 * **Languages:** English (Native) and French (Elementary)
 
-Relevant Coursework
-======
+## Relevant Coursework
 * **Dynamics and Control:** 
   * Nonlinear Control Systems, Synthetic Biological Design and Computing, Linear Systems I, Learning Control Systems, Optimization Methods, Nonlinear Feedback Systems, Learning Control Systems, Dynamics (Lagrangian Mechanics, Engineering Analysis I <br/>
 * **Estimation Theory:** 
@@ -63,14 +58,12 @@ Relevant Coursework
 * **Robotics:** 
   * Robot Locomotion Control, Soft Robotics, Robot Dynamics and Control, Robot Motion Planning & Navigation
 
-Honors and Awards
-======
+## Honors and Awards
 * Graduate Assistance in Areas of National Need (GAANN) Fellowship
 * UCSB College of Engineering Honors Program and Dean's Honors List
 * Eagle Scout
   
-Professional Organizations
-======
+## Professional Organizations
 * American Society of Mechanical Engineers (AMSE), Student Member
 * Institute of Electrical and Electronic Engineers (IEEE), Student Member
 * Institute of Navigation (ION), Student Member
