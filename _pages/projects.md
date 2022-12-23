@@ -124,8 +124,12 @@ author_profile: true
   
 * ***Omnibot: Path Planning Square and Circle***  <a name="p4c"></a>
   <p align="center">
-    <iframe src="https://drive.google.com/file/d/1jNwVhaoBjV1Uk_1Hg4bzypUY43nu47gy/preview" width="400" height="200" allow="autoplay"></iframe>
-    <iframe src="https://drive.google.com/file/d/16OpMTcEGmPgyUQ_EgaSQVchVo7_OblKp/preview" width="400" height="200" allow="autoplay"></iframe>
+    <iframe src="https://www.youtube.com/embed/QnYyRaUosm4" width="350" height="150" ></iframe>   
+    <iframe src="https://www.youtube.com/embed/WkoLCtqwALU" width="350" height="150" ></iframe>   
+  
+  
+    <!-- <iframe src="https://drive.google.com/file/d/1jNwVhaoBjV1Uk_1Hg4bzypUY43nu47gy/preview" width="400" height="200" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/16OpMTcEGmPgyUQ_EgaSQVchVo7_OblKp/preview" width="400" height="200" allow="autoplay"></iframe> -->
   </p>
 
   * **Description:** This laboratory focused on coordinating a single omnibot to drive in a circle and square pattern. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the omnibot. Forward kinematics were used to find the omnibot's actual path from the angles obtained in simulink. <br/>
@@ -134,7 +138,9 @@ author_profile: true
   
 * ***Omnibot: Point Tracking & Control***  <a name="p4d"></a>
   <p align="center">
-    <iframe src="https://drive.google.com/file/d/1DZIEPTFzLKw_gvt6EwQ1PUEQ9wdhX6-X/preview" width="480" height="280" allow="autoplay"></iframe>
+    <iframe src="https://www.youtube.com/embed/nqHYp-o45A0" width="350" height="150" ></iframe>   
+  
+    <!-- <iframe src="https://drive.google.com/file/d/1DZIEPTFzLKw_gvt6EwQ1PUEQ9wdhX6-X/preview" width="480" height="280" allow="autoplay"></iframe> -->
   </p>
 
   * **Description:** This laboratory focused on having an omnibot trace a semicircle while a laser tracks a user-specified point. A MATLAB and simulink script utilized inverse kinematics for the trajectory planning and control of the omnibot. Forward kinematics were used to find the laser path from the angles outputted in simulink. <br/>
@@ -158,7 +164,9 @@ author_profile: true
 
 * ***Bouncing Ball Simulation*** <a name="p2a"></a>
   <p align="center">
-    <iframe src="https://drive.google.com/file/d/1JaECVwixwH3ExrXA4h8BFqTg_1YRTC-G/preview" width="480" height="270" allow="autoplay"></iframe>
+    <iframe src="https://www.youtube.com/embed/1Z7kSlua7Io" width="350" height="150" ></iframe>   
+  
+    <!-- <iframe src="https://drive.google.com/file/d/1JaECVwixwH3ExrXA4h8BFqTg_1YRTC-G/preview" width="480" height="270" allow="autoplay"></iframe> -->
   </p>
 
   * **Description:** This project aimed to capture the motion of a disk interacting with the walls of a closed container. The evolution for the disk's center of mass was found using Euler's scheme and Newton's second law of motion for an ordinary differential equation.  <br/>
@@ -169,20 +177,20 @@ author_profile: true
   <p align="center">
     <iframe src="https://www.youtube.com/embed/gga_rrM8K1g" width="350" height="150" ></iframe>
     <iframe src="https://www.youtube.com/embed/6WUwgtxSpv4" width="350" height="150" ></iframe>
+  
+    <!--  <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="400" height="200" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="400" height="200" allow="autoplay"></iframe> -->
   </p>
 
-<!--  <p align="center">
-    <iframe src="https://drive.google.com/file/d/14BdjXeutdu-Vn-vdsUgFeE4ZQsnTJCV2/preview" width="400" height="200" allow="autoplay"></iframe>
-    <iframe src="https://drive.google.com/file/d/1oHdbKweD9wC5gj7w7NE5CcFwj6xyRyJG/preview" width="400" height="200" allow="autoplay"></iframe>
-  </p> -->
-  
   *  **Description:** This project aimed to simulate the upwind scheme by solving the two-dimensional (2-D) advection equation to obtain the advection solution and the velocity field.
 
 - Final Report [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_HW4.pdf) <br/>   
 
 * ***Diffusion Simulation*** <a name="p2c"></a>
   <p align="center">
-    <iframe src="https://drive.google.com/file/d/1u10muevlDhQp-gqbWTKRL0u8R7EbrVAg/preview" width="480" height="280" allow="autoplay"></iframe>
+   <iframe src="https://www.youtube.com/embed/_WiB7c81kck" width="350" height="150" ></iframe>   
+  
+  <!-- <iframe src="https://drive.google.com/file/d/1u10muevlDhQp-gqbWTKRL0u8R7EbrVAg/preview" width="480" height="280" allow="autoplay"></iframe> -->
   </p>
   
   * **Description:** This project aimed to solve the two-dimensional (2-D) diffusion equation for some concentration. The solution was found using Robin and Dirichlet boundary conditions. Moreover, the error between the exact and numerical cases were calculated for the two boundary conditions. <br/>
@@ -191,7 +199,9 @@ author_profile: true
  
 * ***Oil Spill Concentration Simulation*** <a name="p2d"></a>
   <p align="center">
-    <iframe src="https://drive.google.com/file/d/1-dsMsxM6IZ8mjn1-GOI3y7AxNpq56Oy-/preview" width="480" height="280" allow="autoplay"></iframe>
+    <iframe src="https://www.youtube.com/embed/nKflQwb-1KY" width="350" height="150" ></iframe>  
+  
+    <!--<iframe src="https://drive.google.com/file/d/1-dsMsxM6IZ8mjn1-GOI3y7AxNpq56Oy-/preview" width="480" height="280" allow="autoplay"></iframe> -->
   </p>
 
   *  **Description:** This project aimed to simulate an oil spill using the two-dimensional (2-D) advection-diffusion equation over several hours of the day. The numerical solution produced the oil spill concentration's evolution over time which was utilized to figure out when the unsafe concentration limit was surpassed. Furthermore, the maximum error was computed between the numerical and exact concentration values at the end of the simulation.
