@@ -67,4 +67,5 @@ redirect_from:
 * American Society of Mechanical Engineers (AMSE), Student Member
 * Institute of Electrical and Electronic Engineers (IEEE), Student Member
 * Institute of Navigation (ION), Student Member
+* Society for Industrial and Applied Mathematics (SIAM), Student Member
 * National Eagle Scout Association (NESA), Eagle Scout Member
