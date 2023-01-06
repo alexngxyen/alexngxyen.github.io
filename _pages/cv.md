@@ -64,8 +64,8 @@ redirect_from:
 * Eagle Scout
   
 ## Professional Organizations
-* American Society of Mechanical Engineers (AMSE), Student Member
-* Institute of Electrical and Electronic Engineers (IEEE), Student Member
-* Society for Industrial and Applied Mathematics (SIAM), Student Member
-* Institute of Navigation (ION), Student Member
-* National Eagle Scout Association (NESA), Eagle Scout Member
+* American Society of Mechanical Engineers (AMSE), *Student Member*
+* Institute of Electrical and Electronic Engineers (IEEE), *Student Member*
+* Society for Industrial and Applied Mathematics (SIAM), *Student Member*
+* Institute of Navigation (ION), *Student Member*
+* National Eagle Scout Association (NESA), *Eagle Scout Member*
