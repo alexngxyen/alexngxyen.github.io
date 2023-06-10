@@ -40,7 +40,7 @@ redirect_from:
   * ***Mentors:*** Mark Carroll and Mark Smearcheck
   * Created simulation environments in MATLAB and Python to study the estimation performance of the localization, mapping, and simultaneous localization and mapping (SLAM) frameworks for aircraft navigation with cellular signals of opportunity (SOPs).
   * Processed cellular SOP data collected by a U.S. Air Force high-altitude aircraft during a flight campaign in Southern California.
-  * Compared the estimation accuracy and computation speed of seven different stochastic filters (e.g., variations of the Kalman filter and bootstrap particle filter) using the navigation observables extracted from the processed cellular SOP data. 
+  * Compared the estimation accuracy and computation speed of seven different nonlinear stochastic filters (e.g., variants of the Kalman filter and bootstrap particle filter) using the navigation observables extracted from the processed cellular SOP data. 
   * Summarized the project's findings into presentation slides and a poster presented to 50+ attendees (e.g. fellow interns, local university professors, and Air Force Research Lab (AFRL) researchers).
   * Debriefed 15+ AFRL researchers in the Navigation and Communication Branch (RYWN) on the project findings. 
 
