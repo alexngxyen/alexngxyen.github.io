@@ -20,7 +20,7 @@ redirect_from:
 * Graduate Student Researcher, Robot Ecology Laboratory (Irvine, CA), Sept. 2022 - Present
   * ***Advisors:*** Prof. Faryar Jabbari and Prof. Magnus Egerstedt
   * Investigating the collaboration of heterogeneous multi-agent systems while ensuring desired safety requirements are satisfied.
-  * Assisting to program the robots utilized within the laboratory.
+  * Assisting to program the robots utilized within the Robot Ecology Laboratory.
 
 * Graduate Student Researcher, [Autonomous Systems, Perception, Intelligence, and Navigation Laboratory](https://ece.osu.edu/aspin) (Irvine, CA), Sept. 2020 - June 2022
   * ***Advisor:*** Prof. Zak Kassas
