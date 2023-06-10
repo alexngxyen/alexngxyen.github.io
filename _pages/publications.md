@@ -13,7 +13,7 @@ Journal Publications
 ------
 
 * <b>A. Nguyen</b> and Z. Kassas. "Efficient Transmitter Selection Strategies for Improved Information Gathering of Aerial Vehicle
-Navigation in GNSS-Denied Environments," <i>IEEE Aerospace and Electronic Systems Magazine</i>. (accepted) [[PDF]](https://alexngxyen.github.io/files/Efficient_transmitter_selection_strategies_for_improved_information_gathering_of_aerial_vehicle_navigation_in_GNSS_denied_environments_Alex)
+Navigation in GNSS-Denied Environments," <i>IEEE Aerospace and Electronic Systems Magazine</i>. (accepted) [[PDF]](https://alexngxyen.github.io/files/Efficient_transmitter_selection_strategies_for_improved_information_gathering_of_aerial_vehicle_navigation_in_GNSS_denied_environments_Alex.pdf)
 
 Conference Publications
 ------
