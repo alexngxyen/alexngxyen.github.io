@@ -19,8 +19,8 @@ redirect_from:
 ## Research Experience
 * Graduate Student Researcher, Robot Ecology Laboratory (Irvine, CA), Sept. 2022 - Present
   * ***Advisors:*** Prof. Faryar Jabbari and Prof. Magnus Egerstedt
-  * Investigating the cooperative and collaborative control of heterogeneous multi-agent systems inspired by an ecological perspective.
-  * Assisting to program the homogeneous and heterogeneous robots utilized within the robot ecology laboratory.
+  * Investigating the collaboration of heterogeneous multi-agent systems while ensuring desired safety requirements are satisfied.
+  * Assisting to program the robots utilized within the laboratory.
 
 * Graduate Student Researcher, [Autonomous Systems, Perception, Intelligence, and Navigation Laboratory](https://ece.osu.edu/aspin) (Irvine, CA), Sept. 2020 - June 2022
   * ***Advisor:*** Prof. Zak Kassas
@@ -42,7 +42,7 @@ redirect_from:
   * Processed cellular SOP data collected by a U.S. Air Force high-altitude aircraft during a flight campaign in Southern California.
   * Compared the estimation accuracy and computation speed of seven different stochastic filters (e.g., variations of the Kalman filter and bootstrap particle filter) using the navigation observables extracted from the processed cellular SOP data. 
   * Summarized the project's findings into presentation slides and a poster presented to 50+ attendees (e.g. fellow interns, local university professors, and Air Force Research Lab (AFRL) researchers).
-  * Debriefed 15+ AFRL researchers in the Navigation and Communication Branch (RYWN) on the project  insights and results. 
+  * Debriefed 15+ AFRL researchers in the Navigation and Communication Branch (RYWN) on the project findings. 
 
 ## Skills
 * **Program:** MATLAB & Simulink, Python, Mathematica, C++, Arduino
@@ -52,9 +52,9 @@ redirect_from:
 
 ## Relevant Coursework
 * **Dynamics and Control:** 
-  * Nonlinear Control Systems, Synthetic Biological Design and Computing, Linear Systems I, Learning Control Systems, Optimization Methods, Nonlinear Feedback Systems, Learning Control Systems, Dynamics (Lagrangian Mechanics, Engineering Analysis I <br/>
+  * Nonlinear Control Systems, Synthetic Biological Design and Computing, Linear Systems I, Optimization Methods, Nonlinear Feedback Systems, Geometric Nonlinear Control, Learning Control Systems, Dynamics (Lagrangian Mechanics), Engineering Analysis I (Linear Algebra and Ordinary Differential Equations), Engineering Analysis II (Partial Differential Equations) <br/>
 * **Estimation Theory:** 
-  * Parameter and State Estimation, Advanced Detection and Estimation Theory, Random Processes, GNSS Signal Processing and SDR Design <br/>
+  * Parameter and State Estimation, Advanced Detection and Estimation Theory, GNSS Signal Processing and SDR Design, Random Processes <br/>
 * **Robotics:** 
   * Robot Locomotion Control, Soft Robotics, Robot Dynamics and Control, Robot Motion Planning & Navigation
 
