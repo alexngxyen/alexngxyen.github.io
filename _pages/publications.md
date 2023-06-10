@@ -13,7 +13,7 @@ Journal Publications
 ------
 
 * <b>A. Nguyen</b> and Z. Kassas. "Efficient Transmitter Selection Strategies for Improved Information Gathering of Aerial Vehicle
-Navigation in GNSS-Denied Environments," <i>IEEE Aerospace and Electronic Systems Magazine</i>. (submitted) 
+Navigation in GNSS-Denied Environments," <i>IEEE Aerospace and Electronic Systems Magazine</i>. (accepted) [[PDF]](https://alexngxyen.github.io/files/Efficient_transmitter_selection_strategies_for_improved_information_gathering_of_aerial_vehicle_navigation_in_GNSS_denied_environments_Alex)
 
 Conference Publications
 ------
@@ -23,8 +23,10 @@ signals of opportunity,” <i>ION Global Navigation Satellite Systems Conference
 * <b>A. Nguyen </b> and Z. Kassas. “Transmitter selection for improved information gathering in aerial vehicle
 navigation with terrestrial signals of opportunity,” <i> ION International Technical Meeting</i>, Jan. 2022., pp. 723-734. [[PDF]](https://alexngxyen.github.io/files/ION_ITM_2022_Alex_Final_Submission.pdf)
 
+* <b>A. Nguyen </b>, F. Jabbari, and M. Egerstedt. “Mutualistic Interactions in Heterogeneous Multi-Agent Systems,”  <i>IEEE Conference on Decision and Control </i>. (submitted)
+
 Thesis
 ------
 * <b>A. Nguyen</b>. “Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection,” <i>University of California Irvine</i>, June 2022. [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf) 
 
-<sup>*</sup> -- indicates equal author contribution
+<!-- <sup>*</sup> -- indicates equal author contribution -->
