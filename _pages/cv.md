@@ -30,7 +30,7 @@ redirect_from:
   * Prepared the hardware and software for the unmanned aerial vehicle (UAV) flight experiments, as well as helped to analyze the collected cellular signal of opportunity (SOP) experimental data.
   * Compiled research findings into presentation slides shown at the ION GNSS+ 2021 (virtual and in-person) and ION ITM 2022 (virtual and in-person) conference venues which contained 100+ attendees (e.g., military researchers, industry professionals, professors, and graduate students).
 
-* Undergraduate Research Assistant, [Biological Control, Computing, and Learning Laboratory](https://yeung.me.ucsb.edu/) (Santa Barbara, CA), Sept. 2019 - Mar. 2020
+* Undergraduate Research Assistant, [Biological Control Laboratory](https://yeung.me.ucsb.edu/) (Santa Barbara, CA), Sept. 2019 - Mar. 2020
   * ***Advisor:*** Prof. Enoch Yeung
   * Researched new methods for synthesis of genetic circuits for nonlinear biological systems using a data-driven approach.
   * Collaborated with three graduate students and a junior research associate on their synthetic biology projects which involved preparing experiments and performing data collection.
