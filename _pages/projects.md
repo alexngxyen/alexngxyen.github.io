@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Table of Contents
+* [Minimum "Energy" embedding of a Tensegrity Structure](#p13)
+* [Collaboration of Heterogeneous Multi-Agent Systems with Terrain-Dependent Mobility](#p12)
 * [Robot Motion Planning and Localization](#p11)
 * [Learning Machine Classifier Comparison](#p10)
 * [Global Navigation Satellite System Software-Defined Radio](#p9)
@@ -25,6 +27,20 @@ author_profile: true
   - [Diffusion Simulation](#p2c)
   - [Oil Spill Concentration Simulation](#p2d)
 * [Compressed Air Motor](#p1)
+
+## Minimum "Energy" embedding of a Tensegrity Structure <a name="p13"></a>
+**Date:** Spring Quarter 2024 <br/>
+**Description:** This project finds an embedding for a tensegrity structure comprised of springs (which can be compressed or extended) and rigid rods (which are difficult to compress) -- represented as a graph, G = (V, E), in three-dimensional space (as we would like to consider a physical mechanical structure) -- that minimizes the "energy" stored in the springs.
+
+- Final Project Proposal [[PDF]](https://alexngxyen.github.io/files/MAE_295_Project_Proposal.pdf) <br/>
+- Final Project Slides [[PDF]](https://alexngxyen.github.io/files/Networks_and_Control_Project_MAE_295.pdf) <br/>
+
+## Collaboration of Heterogeneous Multi-Agent Systems with Terrain-Dependent Mobility <a name="p12"></a>
+**Date:** Spring Quarter 2023 <br/>
+**Description:** This project studied the energy expenditure of heterogeneous robots -- in the context of terrain-dependent mobility -- with navigation tasks. In particular, we examined the impact of the Lie bracket operator on the vector fields that govern the controlled dynamics and solved an optimal control problem wherein robots can either work together (i.e., collaborate) or work independently.
+
+- Final Project Proposal [[PDF]](https://alexngxyen.github.io/files/MAE_276_Project_Proposal.pdf) <br/>
+- Final Project Slides [[PDF]](https://alexngxyen.github.io/files/Geometric_Nonlinear_Control_Project_MAE_276.pdf) <br/>
 
 ## Robot Motion Planning and Localization <a name="p11"></a>
 **Date:** Spring Quarter 2021 <br/>
