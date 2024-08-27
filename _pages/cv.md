@@ -53,7 +53,7 @@ redirect_from:
   * Summarized the project's findings into a presentation and a poster presented to 50+ attendees, including interns, local university professors, and Air Force Research Lab researchers.
 
 ## Skills
-* **Program:** MATLAB & Simulink, Python, Mathematica, C++
+* **Program:** MATLAB & Simulink, Python, C++, Mathematica
 * **Software:** LaTeX, Microsoft Office Suite, Ipe, Git, Solidworks, AutoCAD, KiCAD, LTSpice
 * **Machine Tools:** Lathe, Mill, Band Saw, Drill Press, Soldering Iron, Laser Cutter
 * **Languages:** English (Native) and French (Elementary)
@@ -68,7 +68,7 @@ redirect_from:
 
 ## Honors and Awards
 * Graduate Assistance in Areas of National Need Fellowship
-* 2023 CDC Student Travel Award and Workshop Support
+* IEEE CSS Student Travel Award and Workshop Support
 * Mexico Graduate Research and Education Program Fellowship
 * UCSB College of Engineering Honors Program and Dean's Honors List
 * Eagle Scout
