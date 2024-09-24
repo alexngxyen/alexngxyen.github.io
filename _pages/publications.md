@@ -12,14 +12,14 @@ author_profile: true
 Journal Publications
 ------
 
-* <b>A. A. Nguyen</b> and Z. Kassas. "Efficient Transmitter Selection Strategies for Improved Information Gathering of Aerial Vehicle
-Navigation in GNSS-Denied Environments," in <i>IEEE Aerospace and Electronic Systems Magazine</i>, vol. 38, no. 10, pp. 26--39, Oct. 2023. [[PDF]](https://alexngxyen.github.io/files/Efficient_Transmitter_Selection_Strategies_for_Improved_Information_Gathering_of_Aerial_Vehicle_Navigation_in_GNSS-Denied_Environments.pdf)
+* <b>A. A. Nguyen</b>, F. Jabbari, and M. Egerstedt. "Resiliency Through Collaboration in Heterogeneous Multi-Robot Systems," in <i>IEEE Open Journal of Control Systems</i>. (Accepted)
+
+* <b>A. A. Nguyen</b>, M. Rodriguez Curras, M. Egerstedt, and J. N. Pauli. "From Ecology to Robotics and Back: Mutualisms as a Framework for Multi-Robot Collaboration," in <i>Royal Society Open Science</i>. (Revise and Resubmit)
 
 * <b>A. A. Nguyen</b>, L. Guerrero-Bonilla, F. Jabbari, and M. Egerstedt. "Scalable, Pairwise Collaborations in Heterogeneous Multi-Robot Teams," in <i>IEEE Control System Letters</i>, vol. 8, pp. 604--609, May 2024. [[PDF]](https://alexngxyen.github.io/files/Scalable_Pairwise_Collaborations_in_Heterogeneous_Multi-Robot_Teams.pdf)
 
-* <b>A. A. Nguyen</b>, M. Rodriguez Curras, M. Egerstedt, and J. N. Pauli. "From Ecology to Robotics and Back: Mutualisms as a Framework for Multi-Robot Collaboration," in <i>Royal Society Open Science</i>. (Revise and Resubmit)
-  
-* <b>A. A. Nguyen</b>, F. Jabbari, and M. Egerstedt. "Resiliency Through Collaboration in Heterogeneous Multi-Robot Systems," in <i>IEEE Open Journal of Control Systems</i>. (Revise and Resubmit)
+* <b>A. A. Nguyen</b> and Z. Kassas. "Efficient Transmitter Selection Strategies for Improved Information Gathering of Aerial Vehicle
+Navigation in GNSS-Denied Environments," in <i>IEEE Aerospace and Electronic Systems Magazine</i>, vol. 38, no. 10, pp. 26--39, Oct. 2023. [[PDF]](https://alexngxyen.github.io/files/Efficient_Transmitter_Selection_Strategies_for_Improved_Information_Gathering_of_Aerial_Vehicle_Navigation_in_GNSS-Denied_Environments.pdf)
 
 Conference Publications
 ------
@@ -31,6 +31,6 @@ Conference Publications
 
 Thesis
 ------
-* <b>A. Nguyen</b>. “Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection,” <i>University of California Irvine</i>, June 2022. [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf) 
+* <b>A. A. Nguyen</b>. “Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection,” <i>University of California Irvine</i>, June 2022. [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf) 
 
 <!-- <sup>*</sup> -- indicates equal author contribution -->
