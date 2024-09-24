@@ -23,11 +23,11 @@ Navigation in GNSS-Denied Environments," in <i>IEEE Aerospace and Electronic Sys
 
 Conference Publications
 ------
-* <b>A. A. Nguyen </b><sup> </sup>, Z. Shadram<sup></sup>, and Z. Kassas. “A lower bound for the error covariance of radio SLAM with terrestrial signals of opportunity,” in <i>ION Global Navigation Satellite Systems Conference</i>, Sept. 2021., pp. 2294-2306. [[PDF]](https://alexngxyen.github.io/files/ION_2021_Second_Submission_Alex.pdf)
+* <b>A. A. Nguyen </b>, F. Jabbari, and M. Egerstedt. “Mutualistic Interactions in Heterogeneous Multi-Agent Systems,” in <i>IEEE Conference on Decision and Control </i>, 2023, pp. 411--418. [[PDF]](https://alexngxyen.github.io/files/Mutualistic_Interactions_in_Heterogeneous_Multi-Agent_Systems.pdf)
 
 * <b>A. A. Nguyen </b> and Z. Kassas. “Transmitter selection for improved information gathering in aerial vehicle navigation with terrestrial signals of opportunity,” in <i> ION International Technical Meeting</i>, Jan. 2022., pp. 723-734. [[PDF]](https://alexngxyen.github.io/files/ION_ITM_2022_Alex_Final_Submission.pdf)
 
-* <b>A. A. Nguyen </b>, F. Jabbari, and M. Egerstedt. “Mutualistic Interactions in Heterogeneous Multi-Agent Systems,” in <i>IEEE Conference on Decision and Control </i>, 2023, pp. 411--418. [[PDF]](https://alexngxyen.github.io/files/Mutualistic_Interactions_in_Heterogeneous_Multi-Agent_Systems.pdf)
+* <b>A. A. Nguyen </b><sup> </sup>, Z. Shadram<sup></sup>, and Z. Kassas. “A lower bound for the error covariance of radio SLAM with terrestrial signals of opportunity,” in <i>ION Global Navigation Satellite Systems Conference</i>, Sept. 2021., pp. 2294-2306. [[PDF]](https://alexngxyen.github.io/files/ION_2021_Second_Submission_Alex.pdf)
 
 Thesis
 ------
