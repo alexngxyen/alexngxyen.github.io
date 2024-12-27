@@ -12,9 +12,9 @@ author_profile: true
 Journal Publications
 ------
 
-* <b>A. A. Nguyen</b>, F. Jabbari, and M. Egerstedt. "Resiliency Through Collaboration in Heterogeneous Multi-Robot Systems," in <i>IEEE Open Journal of Control Systems</i>. (Accepted)
+* <b>A. A. Nguyen</b>, M. Rodriguez Curras, M. Egerstedt, and J. N. Pauli. "From Ecology to Robotics and Back: Mutualisms as a Framework for Multi-Robot Collaboration." (Submitted)
 
-* <b>A. A. Nguyen</b>, M. Rodriguez Curras, M. Egerstedt, and J. N. Pauli. "From Ecology to Robotics and Back: Mutualisms as a Framework for Multi-Robot Collaboration," in <i>Royal Society Open Science</i>. (Revise and Resubmit)
+* <b>A. A. Nguyen</b>, F. Jabbari, and M. Egerstedt. "Resiliency Through Collaboration in Heterogeneous Multi-Robot Systems," in <i>IEEE Open Journal of Control Systems</i>, vol. 3, pp. 461--471, Sept. 2024. [[PDF]](https://alexngxyen.github.io/files/Resiliency_Through_Collaboration_in_Heterogeneous_Multi-Robot_Systems.pdf) 
 
 * <b>A. A. Nguyen</b>, L. Guerrero-Bonilla, F. Jabbari, and M. Egerstedt. "Scalable, Pairwise Collaborations in Heterogeneous Multi-Robot Teams," in <i>IEEE Control System Letters</i>, vol. 8, pp. 604--609, May 2024. [[PDF]](https://alexngxyen.github.io/files/Scalable_Pairwise_Collaborations_in_Heterogeneous_Multi-Robot_Teams.pdf)
 
