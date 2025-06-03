@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Table of Contents
+* [Task-Scheduling for Multi-Robot Systems with Heterogeneous Graph Neural Networks](#p14)
 * [Minimum "Energy" embedding of a Tensegrity Structure](#p13)
 * [Collaboration of Heterogeneous Multi-Agent Systems with Terrain-Dependent Mobility](#p12)
 * [Robot Motion Planning and Localization](#p11)
@@ -27,6 +28,13 @@ author_profile: true
   - [Diffusion Simulation](#p2c)
   - [Oil Spill Concentration Simulation](#p2d)
 * [Compressed Air Motor](#p1)
+
+## Task-Scheduling for Multi-Robot Systems with Heterogeneous Graph Neural Networks <a name="p14"></a>
+**Date:** Winter Quarter 2025 <br/>
+**Description:** This projects investigates how heterogeneous graph neural networks can be leveraged to scalably solve task scheduling problems; i.e., robots with different sets of capabiltites are assigned tasks to be completed over certain time windows. 
+
+- Final Project Proposal [[PDF]](https://alexngxyen.github.io/files/EECS_298_Final_Project_Report.pdf) <br/>
+- Final Project Slides [[PDF]](https://alexngxyen.github.io/files/EECS_298_Final_Project_Presentation.pdf) <br/>
 
 ## Minimum "Energy" embedding of a Tensegrity Structure <a name="p13"></a>
 **Date:** Spring Quarter 2024 <br/>
