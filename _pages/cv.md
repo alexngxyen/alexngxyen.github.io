@@ -52,7 +52,7 @@ redirect_from:
     * Presented project findings at the ATR Center Summer Workshop as a talk, followed by a poster session, to 80+ attendees.
 
 ## Journal Publications
-* <b> A. A. Nguyen </b>, M. Rodriguez Curras, M. Egerstedt, and J. N. Pauli, ``From Ecology to Robotics and Back: Mutualisms as a Framework for Multi-Robot Collaboration,'' in <i> Frontiers in Robotics and AI </i>, vol. 12, p. 1566452, Mar. 2025.
+* <b> A. A. Nguyen </b>, M. Rodriguez Curras, M. Egerstedt, and J. N. Pauli, ``Mutualisms as a Framework for Multi-Robot Collaboration,'' in <i> Frontiers in Robotics and AI </i>, vol. 12, p. 1566452, Mar. 2025.
 * <b> A. A. Nguyen </b>, F. Jabbari, and M. Egerstedt, ``Resiliency Through Collaboration in Heterogeneous Multi-Robot Systems,'' in <i> IEEE Open Journal of Control Systems </i>, vol. 3, pp. 461-471, Sept. 2024.
 * <b> A. A. Nguyen </b>, L. Guerrero-Bonilla, F. Jabbari, and M. Egerstedt, ``Scalable, Pairwise Collaborations in Heterogeneous Multi-Robot Teams,'' in <i> IEEE Control System Letters </i>, vol. 8, pp. 604-609, May 2024.
 * <b> A. A. Nguyen </b> and Z. Kassas, ``Efficient Transmitter Selection Strategies for Improved Information Gathering of Aerial Vehicle Navigation in GNSS-Denied Environments,'' in <i> IEEE Aerospace and Electronic Systems Magazine </i>, vol. 38, no. 10, pp. 26-39, Oct. 2023. 
