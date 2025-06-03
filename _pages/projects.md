@@ -5,6 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
+<!-- 
 ## Table of Contents
 * [Task-Scheduling for Multi-Robot Systems with Heterogeneous Graph Neural Networks](#p14)
 * [Minimum "Energy" embedding of a Tensegrity Structure](#p13)
@@ -28,6 +29,7 @@ author_profile: true
   - [Diffusion Simulation](#p2c)
   - [Oil Spill Concentration Simulation](#p2d)
 * [Compressed Air Motor](#p1)
+-->
 
 ## Task-Scheduling for Multi-Robot Systems with Heterogeneous Graph Neural Networks <a name="p14"></a>
 **Date:** Winter Quarter 2025 <br/>
