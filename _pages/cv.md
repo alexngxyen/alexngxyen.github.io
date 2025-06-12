@@ -77,18 +77,19 @@ redirect_from:
 * M. Rodriguez Curas, <b> A. A. Nguyen </b>, M. Egerstedt, and J. N. Pauli, ``From ecology to robotics and back: Mutualisms as a framework for multi-robot collaboration,'' in the the Annual Meeting of the Ecological Society of America Annual, Long Beach, CA, USA, August 2024.
 
 ## Honors and Awards
+* Graduate Assistance in Areas of National Need Fellowship (2022 - 2025)
 * IEEE CSS Student Travel Award and Workshop Support (2023, 2024)
-* Graduate Assistance in Areas of National Need Fellowship (2020 - 2021, 2022 - 2025)
 * Mexico Graduate Research and Education Program Fellowship (2023)
+* Graduate Assistance in Areas of National Need Fellowship (2020 - 2021) 
 * UCSB College of Engineering Honors Program (2018 - 2020)
 * UCSB Dean's Honors List (2018 - 2020)
 * Eagle Scout (2015)
 
-## Mentorship
+<!--## Mentorship
 * Riwa Karam, Graduate Student Researcher, UC Irvine
 * Diana Morales, Graduate Student Researcher, UC Irvine
 * Saketh Karumuri, Graduate Student Researcher, UC Irvine
-* Moyinoluwa Adelowo, Summer Undergraduate Research Fellowship Program, UC Irvine
+* Moyinoluwa Adelowo, Summer Undergraduate Research Fellowship Program, UC Irvine -->
 
 ## Media Coverage
 * "UCI Robot Ecology Lab inspired by nature," Daily Pilot, April 2025 [[URL]](https://www.latimes.com/socal/daily-pilot/entertainment/story/2025-04-29/uci-robot-ecology-lab-inspired-by-nature)
