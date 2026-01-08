@@ -12,7 +12,7 @@ author_profile: true
 Journal Publications
 ------
 
-* <b> A. A. Nguyen </b>, M. Rodriguez Curras, M. Egerstedt, and J. N. Pauli, ``Mutualisms as a Framework for Multi-Robot Collaboration,'' in <i> Frontiers in Robotics and AI </i>, vol. 12, p. 1566452, Mar. 2025. [[PDF]](https://alexngxyen.github.io/files/frobt-2-1566452.pdf) 
+* <b> A. A. Nguyen </b>, M. Rodriguez Curras, M. Egerstedt, and J. N. Pauli, "Mutualisms as a Framework for Multi-Robot Collaboration," in <i> Frontiers in Robotics and AI </i>, vol. 12, p. 1566452, Mar. 2025. [[PDF]](https://alexngxyen.github.io/files/frobt-2-1566452.pdf) 
 
 * <b>A. A. Nguyen</b>, F. Jabbari, and M. Egerstedt. "Resiliency Through Collaboration in Heterogeneous Multi-Robot Systems," in <i>IEEE Open Journal of Control Systems</i>, vol. 3, pp. 461-471, Sept. 2024. [[PDF]](https://alexngxyen.github.io/files/Resiliency_Through_Collaboration_in_Heterogeneous_Multi-Robot_Systems.pdf) 
 
@@ -23,14 +23,16 @@ Navigation in GNSS-Denied Environments," in <i>IEEE Aerospace and Electronic Sys
 
 Conference Publications
 ------
-* <b>A. A. Nguyen </b>, F. Jabbari, and M. Egerstedt. “Mutualistic Interactions in Heterogeneous Multi-Agent Systems,” in <i>IEEE Conference on Decision and Control </i>, 2023, pp. 411-418. [[PDF]](https://alexngxyen.github.io/files/Mutualistic_Interactions_in_Heterogeneous_Multi-Agent_Systems.pdf)
+* <b>A. A. Nguyen </b>, F. Jabbari, and M. Egerstedt. "Energy-Based Scheduling for Collaborative Robot Mobility," in <i>American Control Conference</i>, 2026 (Submitted).
 
-* <b>A. A. Nguyen </b> and Z. Kassas. “Transmitter selection for improved information gathering in aerial vehicle navigation with terrestrial signals of opportunity,” in <i> ION International Technical Meeting</i>, Jan. 2022., pp. 723-734. [[PDF]](https://alexngxyen.github.io/files/ION_ITM_2022_Alex_Final_Submission.pdf)
+* <b>A. A. Nguyen </b>, F. Jabbari, and M. Egerstedt. "Mutualistic Interactions in Heterogeneous Multi-Agent Systems," in <i>IEEE Conference on Decision and Control </i>, 2023, pp. 411-418. [[PDF]](https://alexngxyen.github.io/files/Mutualistic_Interactions_in_Heterogeneous_Multi-Agent_Systems.pdf)
 
-* <b>A. A. Nguyen </b><sup> </sup>, Z. Shadram<sup></sup>, and Z. Kassas. “A lower bound for the error covariance of radio SLAM with terrestrial signals of opportunity,” in <i>ION Global Navigation Satellite Systems Conference</i>, Sept. 2021., pp. 2294-2306. [[PDF]](https://alexngxyen.github.io/files/ION_2021_Second_Submission_Alex.pdf)
+* <b>A. A. Nguyen </b> and Z. Kassas. "Transmitter selection for improved information gathering in aerial vehicle navigation with terrestrial signals of opportunity," in <i> ION International Technical Meeting</i>, Jan. 2022., pp. 723-734. [[PDF]](https://alexngxyen.github.io/files/ION_ITM_2022_Alex_Final_Submission.pdf)
+
+* <b>A. A. Nguyen </b><sup> </sup>, Z. Shadram<sup></sup>, and Z. Kassas. "A lower bound for the error covariance of radio SLAM with terrestrial signals of opportunity," in <i>ION Global Navigation Satellite Systems Conference</i>, Sept. 2021., pp. 2294-2306. [[PDF]](https://alexngxyen.github.io/files/ION_2021_Second_Submission_Alex.pdf)
 
 Thesis
 ------
-* <b>A. A. Nguyen</b>. “Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection,” <i>University of California Irvine</i>, June 2022. [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf) 
+* <b>A. A. Nguyen</b>. "Aerial Vehicle Navigation with Terrestrial Signals of Opportunity: Performance Analysis and Transmitter Selection," <i>University of California Irvine</i>, June 2022. [[PDF]](https://alexngxyen.github.io/files/Alex_Nguyen_UCI_Masters_Thesis.pdf) 
 
 <!-- <sup>*</sup> -- indicates equal author contribution -->
