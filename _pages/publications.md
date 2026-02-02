@@ -23,7 +23,7 @@ Navigation in GNSS-Denied Environments," in <i>IEEE Aerospace and Electronic Sys
 
 Conference Publications
 ------
-* <b>A. A. Nguyen </b>, F. Jabbari, and M. Egerstedt. "Energy-Based Scheduling for Collaborative Robot Mobility," in <i>American Control Conference</i>, 2026 (Submitted).
+* <b>A. A. Nguyen </b>, F. Jabbari, and M. Egerstedt. "Energy-Based Scheduling for Collaborative Robot Mobility," in <i>American Control Conference</i>, 2026 (Accepted).
 
 * <b>A. A. Nguyen </b>, F. Jabbari, and M. Egerstedt. "Mutualistic Interactions in Heterogeneous Multi-Agent Systems," in <i>IEEE Conference on Decision and Control </i>, 2023, pp. 411-418. [[PDF]](https://alexngxyen.github.io/files/Mutualistic_Interactions_in_Heterogeneous_Multi-Agent_Systems.pdf)
 
