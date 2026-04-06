@@ -98,10 +98,11 @@ redirect_from:
 ## Review Activity
 * Journals:
   * IEEE Open Journal of Control Systems (2025)
-  * IEEE Control System Letters (2024, 2025)
+  * IEEE Control System Letters (2024, 2025, 2026)
   * The Journal of Supercomputing (2024)
 * Conferences:
-  * IEEE Conference on Decision and Control (2024, 2025)
+  * IEEE/RSJ International Conference on Intelligent Robots and Systems (2026)
+  * IEEE Conference on Decision and Control (2024, 2025, 2026)
   * IEEE Conference on Vehicular Technology (2022)
 
 ## Skills
