@@ -97,8 +97,9 @@ redirect_from:
 
 ## Review Activity
 * Journals:
+  * IEEE Control Systems Letters (2024, 2025, 2026)
+  * IEEE Robotics and Automation Letters (2026)
   * IEEE Open Journal of Control Systems (2025)
-  * IEEE Control System Letters (2024, 2025, 2026)
   * The Journal of Supercomputing (2024)
 * Conferences:
   * IEEE/RSJ International Conference on Intelligent Robots and Systems (2026)
@@ -124,9 +125,10 @@ redirect_from:
 * **Professional Organizations:** 
   * American Society of Mechanical Engineers, *Student Member*
   * Institute of Electrical and Electronic Engineers, *Student Member*
-  * IEEE Control System Society, *Student Member*
+    * IEEE Control System Society
+  * American Institute of Aeronautics and Astronautics, *Student Member*
   * Institute of Navigation, *Student Member*
   * Society for Industrial and Applied Mathematics, *Student Member*
   * National Eagle Scout Association, *Eagle Scout Member*
 * **Student Leadership:**
-  * UCI Mechanical & Aerospace Engineering Graduate Student Association, *Events Coordinator*   
+  * UCI Mechanical & Aerospace Engineering-Graduate Student Association, *Events Coordinator*   
