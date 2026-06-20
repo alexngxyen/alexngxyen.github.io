@@ -97,8 +97,8 @@ redirect_from:
 
 ## Review Activity
 * Journals:
-  * IEEE Control Systems Letters (2024, 2025, 2026)
   * IEEE Robotics and Automation Letters (2026)
+  * IEEE Control Systems Letters (2024, 2025, 2026)
   * IEEE Open Journal of Control Systems (2025)
   * The Journal of Supercomputing (2024)
 * Conferences:
